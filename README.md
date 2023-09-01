@@ -4,7 +4,7 @@
 
 The main aim of the FunForLab project is the improvement of the promotion of MLTs (Medical Laboratory Technicians), the quality of their training, as well as cross-border mobility through the development and sharing of ICTE tools (Information and Communication Technologies for Education) in the EMR region (Euregio-Meuse-Rhine).
 
-For more details, visit: [FUNFORLAB (interregemr.eu)](http://interregemr.eu)
+For more details, visit: [FUNFORLAB (interregemr.eu)](https://www.interregemr.eu/projets/funforlab-fr)
 
 ## Copyright
 
