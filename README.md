@@ -16,6 +16,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## Project Details
 
+- **Unity project** : Unity 2020.2.5f1
 - **Website**: [funforlab.eu](http://funforlab.eu)
 - **Project Date**: March 2021 - August 2023
 
