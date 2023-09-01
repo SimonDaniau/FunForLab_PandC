@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BXTDocument>
+  <voice name="Microsoft Frank [Néerlandais (Pays-Bas)]" sapi="5" rate="0" pitch="0" volume="100"/>
+  <bookmarks>
+    <bookmark name="[Robot_1_1 nl]" pos="0"/>
+    <bookmark name="[Robot_4_19 nl]" pos="33"/>
+    <bookmark name="[Robot_4_20 nl]" pos="62"/>
+    <bookmark name="[Robot_4_21 nl]" pos="164"/>
+    <bookmark name="[Robot_4_22 nl]" pos="249"/>
+    <bookmark name="[Robot_4_23 nl]" pos="403"/>
+    <bookmark name="[Robot_4_25 nl]" pos="524"/>
+    <bookmark name="[Robot_4_26 nl]" pos="606"/>
+    <bookmark name="[Robot_4_30 nl]" pos="716"/>
+    <bookmark name="[Robot_4_31 nl]" pos="839"/>
+    <bookmark name="[Robot_4_32 nl]" pos="915"/>
+    <bookmark name="[Robot_5_1 nl]" pos="987"/>
+    <bookmark name="[Robot_5_2 nl]" pos="1092"/>
+    <bookmark name="[Robot_5_4 nl]" pos="1213"/>
+    <bookmark name="[Robot_7_1 nl]" pos="1270"/>
+    <bookmark name="[Robot_7_2 nl]" pos="1325"/>
+    <bookmark name="[Robot_7_3 nl]" pos="1412"/>
+    <bookmark name="[Robot_7_4 nl]" pos="1471"/>
+    <bookmark name="[Robot_7_8 nl]" pos="1509"/>
+    <bookmark name="[Robot_8_1 nl]" pos="1598"/>
+    <bookmark name="[Robot_8_3 nl]" pos="1730"/>
+    <bookmark name="[Robot_8_4 nl]" pos="1842"/>
+    <bookmark name="[Robot_8_5 nl]" pos="1957"/>
+    <bookmark name="[Robot_8_6 nl]" pos="2068"/>
+    <bookmark name="[Robot_8_7 nl]" pos="2217"/>
+    <bookmark name="[Robot_8_8 nl]" pos="2343"/>
+    <bookmark name="[Robot_8_9 nl]" pos="2475"/>
+    <bookmark name="[Robot_9_1 nl]" pos="2531"/>
+    <bookmark name="[Robot_9_2 nl]" pos="2671"/>
+    <bookmark name="[Robot_9_3 nl]" pos="2762"/>
+    <bookmark name="[Robot_9_4 nl]" pos="2952"/>
+    <bookmark name="[Robot_9_5 nl]" pos="3116"/>
+    <bookmark name="[Robot_9_6 nl]" pos="3171"/>
+    <bookmark name="[Robot_9_8 nl]" pos="3328"/>
+    <bookmark name="[Robot_10_1 nl]" pos="3399"/>
+    <bookmark name="[Robot_10_2 nl]" pos="3523"/>
+    <bookmark name="[Robot_10_3 nl]" pos="3578"/>
+    <bookmark name="[Robot_10_4 nl]" pos="3683"/>
+    <bookmark name="[Robot_10_5 nl]" pos="3777"/>
+    <bookmark name="[Robot_10_6 nl]" pos="3899"/>
+    <bookmark name="[Robot_10_7 nl]" pos="3964"/>
+    <bookmark name="[Robot_10_8 nl]" pos="4036"/>
+    <bookmark name="[Robot_11_1 nl]" pos="4132"/>
+    <bookmark name="[Robot_11_2 nl]" pos="4177"/>
+    <bookmark name="[Robot_11_3 nl]" pos="4337"/>
+    <bookmark name="[Robot_11_4 nl]" pos="4500"/>
+    <bookmark name="[Robot_11_5 nl]" pos="4644"/>
+    <bookmark name="[Robot_11_6 nl]" pos="4741"/>
+    <bookmark name="[Robot_11_7 nl]" pos="4799"/>
+    <bookmark name="[Robot_11_8 nl]" pos="4896"/>
+    <bookmark name="[Robot_12_0 nl]" pos="4968"/>
+    <bookmark name="[Robot_15_1 nl]" pos="5074"/>
+    <bookmark name="[Robot_18_1 nl]" pos="5196"/>
+    <bookmark name="[Robot_18_3 nl]" pos="5247"/>
+    <bookmark name="[Robot_18_4 nl]" pos="5362"/>
+    <bookmark name="[Robot_18_5 nl]" pos="5512"/>
+    <bookmark name="[Robot_18_7 nl]" pos="5593"/>
+    <bookmark name="[Robot_18_8 nl]" pos="5768"/>
+    <bookmark name="[Robot_21_1 nl]" pos="5820"/>
+    <bookmark name="[Robot_21_2 nl]" pos="5902"/>
+    <bookmark name="[Robot_21_3 nl]" pos="6010"/>
+    <bookmark name="[Robot_21_4 nl]" pos="6148"/>
+    <bookmark name="[Robot_21_5 nl]" pos="6253"/>
+    <bookmark name="[Robot_21_6 nl]" pos="6344"/>
+    <bookmark name="[Robot_21_7 nl]" pos="6476"/>
+    <bookmark name="[Robot_21_8 nl]" pos="6553"/>
+    <bookmark name="[Robot_21_9 nl]" pos="6639"/>
+    <bookmark name="[Robot_21_10 nl]" pos="6692"/>
+    <bookmark name="[Robot_21_11 nl]" pos="6753"/>
+    <bookmark name="[Robot_21_12 nl]" pos="6802"/>
+    <bookmark name="[Robot_21_13 nl]" pos="6847"/>
+    <bookmark name="[Robot_21_14 nl]" pos="6946"/>
+    <bookmark name="[Robot_21_15 nl]" pos="7056"/>
+    <bookmark name="[Robot_21_16 nl]" pos="7088"/>
+    <bookmark name="[Robot_22_1 nl]" pos="7168"/>
+    <bookmark name="[Robot_22_27 nl]" pos="7261"/>
+    <bookmark name="[Robot_22_28 nl]" pos="7305"/>
+    <bookmark name="[Robot_23_1 nl]" pos="7337"/>
+    <bookmark name="[Robot_23_27 nl]" pos="7408"/>
+    <bookmark name="[Robot_23_28 nl]" pos="7452"/>
+    <bookmark name="[Robot_24_1 nl]" pos="7484"/>
+    <bookmark name="[Robot_24_27 nl]" pos="7638"/>
+    <bookmark name="[Robot_24_28 nl]" pos="7682"/>
+    <bookmark name="[Robot_25_1 nl]" pos="7716"/>
+    <bookmark name="[Robot_25_27 nl]" pos="7804"/>
+    <bookmark name="[Robot_25_28 nl]" pos="7848"/>
+    <bookmark name="[Robot_26_1 nl]" pos="7882"/>
+    <bookmark name="[Robot_26_27 nl]" pos="8022"/>
+    <bookmark name="[Robot_26_28 nl]" pos="8066"/>
+    <bookmark name="[Robot_27_1 nl]" pos="8100"/>
+    <bookmark name="[Robot_27_2 nl]" pos="8158"/>
+    <bookmark name="[Robot_27_3 nl]" pos="8226"/>
+    <bookmark name="[Robot_27_4 nl]" pos="8324"/>
+    <bookmark name="[Robot_27_5 nl]" pos="8432"/>
+    <bookmark name="[Robot_27_6 nl]" pos="8505"/>
+    <bookmark name="[Robot_27_7 nl]" pos="8559"/>
+    <bookmark name="[Robot_27_8 nl]" pos="8659"/>
+    <bookmark name="[Robot_27_9 nl]" pos="8826"/>
+    <bookmark name="[Robot_27_10 nl]" pos="8897"/>
+    <bookmark name="[Robot_28_32 nl]" pos="8977"/>
+    <bookmark name="[Robot_28_42 nl]" pos="9086"/>
+    <bookmark name="[Robot_28_43 nl]" pos="9130"/>
+    <bookmark name="[Robot_29_1 nl]" pos="9164"/>
+    <bookmark name="[Robot_29_2 nl]" pos="9290"/>
+    <bookmark name="[Robot_29_3 nl]" pos="9319"/>
+    <bookmark name="[Robot_29_4 nl]" pos="9438"/>
+    <bookmark name="[Robot_29_5 nl]" pos="9475"/>
+    <bookmark name="[Robot_29_6 nl]" pos="9598"/>
+    <bookmark name="[Robot_31_1 nl]" pos="9669"/>
+    <bookmark name="[Robot_31_3 nl]" pos="9711"/>
+    <bookmark name="[Robot_31_4 nl]" pos="9789"/>
+    <bookmark name="[Robot_31_5 nl]" pos="9961"/>
+    <bookmark name="[Robot_31_7 nl]" pos="10038"/>
+    <bookmark name="[Robot_32_1 nl]" pos="10165"/>
+    <bookmark name="[Robot_33_1 nl]" pos="10271"/>
+    <bookmark name="[Robot_33_2 nl]" pos="10329"/>
+    <bookmark name="[Robot_33_4 nl]" pos="10493"/>
+    <bookmark name="[Robot_33_5 nl]" pos="10570"/>
+    <bookmark name="[Robot_33_6 nl]" pos="10772"/>
+    <bookmark name="[Robot_33_7 nl]" pos="10953"/>
+    <bookmark name="[Robot_33_8 nl]" pos="11081"/>
+    <bookmark name="[Robot_33_9 nl]" pos="11283"/>
+    <bookmark name="[Robot_33_10 nl]" pos="11450"/>
+    <bookmark name="[Robot_33_11 nl]" pos="11556"/>
+    <bookmark name="[Robot_34_1 nl]" pos="11640"/>
+    <bookmark name="[Robot_34_2 nl]" pos="11735"/>
+    <bookmark name="[Robot_34_3 nl]" pos="11832"/>
+    <bookmark name="[Robot_34_4 nl]" pos="11927"/>
+    <bookmark name="[Robot_34_5 nl]" pos="12013"/>
+    <bookmark name="[Robot_34_6 nl]" pos="12098"/>
+    <bookmark name="[Robot_34_7 nl]" pos="12206"/>
+    <bookmark name="[Robot_34_8 nl]" pos="12281"/>
+    <bookmark name="[Robot_34_9 nl]" pos="12348"/>
+    <bookmark name="[Robot_34_10 nl]" pos="12494"/>
+    <bookmark name="[Robot_34_11 nl]" pos="12598"/>
+    <bookmark name="[Robot_34_12 nl]" pos="12705"/>
+    <bookmark name="[Robot_34_13 nl]" pos="12837"/>
+    <bookmark name="[Robot_34_14 nl]" pos="12951"/>
+    <bookmark name="[Robot_34_15 nl]" pos="13055"/>
+    <bookmark name="[Robot_34_16 nl]" pos="13204"/>
+    <bookmark name="[Robot_34_17 nl]" pos="13372"/>
+    <bookmark name="[Robot_34_18 nl]" pos="13460"/>
+    <bookmark name="[Robot_35_8 nl]" pos="13626"/>
+    <bookmark name="[Robot_35_9 nl]" pos="13719"/>
+    <bookmark name="[Robot_35_10 nl]" pos="13750"/>
+    <bookmark name="[Robot_36_1 nl]" pos="13866"/>
+    <bookmark name="[Robot_36_2 nl]" pos="13971"/>
+    <bookmark name="[Robot_36_10 nl]" pos="14053"/>
+    <bookmark name="[Robot_36_11 nl]" pos="14125"/>
+    <bookmark name="[Robot_41_2 nl]" pos="14197"/>
+    <bookmark name="[Robot_41_4 nl]" pos="14274"/>
+    <bookmark name="[Robot_41_5 nl]" pos="14338"/>
+    <bookmark name="[Robot_41_7 nl]" pos="14454"/>
+    <bookmark name="[Robot_41_9 nl]" pos="14482"/>
+    <bookmark name="[Robot_41_10 nl]" pos="14646"/>
+    <bookmark name="[Robot_41_11 nl]" pos="14768"/>
+    <bookmark name="[Robot_41_12 nl]" pos="14964"/>
+    <bookmark name="[Robot_41_13 nl]" pos="15068"/>
+    <bookmark name="[Robot_41_15 nl]" pos="15138"/>
+    <bookmark name="[Robot_41_16 nl]" pos="15272"/>
+    <bookmark name="[Robot_42_1 nl]" pos="15305"/>
+    <bookmark name="[Robot_42_2 nl]" pos="15360"/>
+    <bookmark name="[Robot_42_3 nl]" pos="15504"/>
+    <bookmark name="[Robot_43_1 nl]" pos="15576"/>
+    <bookmark name="[Robot_43_2 nl]" pos="15683"/>
+    <bookmark name="[Robot_43_3 nl]" pos="15803"/>
+    <bookmark name="[Robot_43_4 nl]" pos="15894"/>
+    <bookmark name="[Robot_43_5 nl]" pos="15986"/>
+    <bookmark name="[Robot_43_6 nl]" pos="16068"/>
+    <bookmark name="[Robot_43_7 nl]" pos="16138"/>
+    <bookmark name="[Robot_43_8 nl]" pos="16236"/>
+    <bookmark name="[Robot_43_9 nl]" pos="16300"/>
+    <bookmark name="[Robot_43_10 nl]" pos="16463"/>
+    <bookmark name="[Robot_43_11 nl]" pos="16552"/>
+    <bookmark name="[Robot_45_1 nl]" pos="16663"/>
+    <bookmark name="[Robot_45_2 nl]" pos="16720"/>
+    <bookmark name="[Robot_45_3 nl]" pos="16790"/>
+    <bookmark name="[Robot_46_2 nl]" pos="16916"/>
+    <bookmark name="[Robot_46_3 nl]" pos="16964"/>
+    <bookmark name="[Robot_46_4 nl]" pos="17138"/>
+    <bookmark name="[Robot_46_7 nl]" pos="17193"/>
+    <bookmark name="[Robot_51_1 nl]" pos="17264"/>
+    <bookmark name="[Robot_51_2 nl]" pos="17346"/>
+    <bookmark name="[Robot_51_4 nl]" pos="17470"/>
+    <bookmark name="[Robot_51_5 nl]" pos="17537"/>
+    <bookmark name="[Robot_51_6 nl]" pos="17719"/>
+    <bookmark name="[Robot_51_8 nl]" pos="17918"/>
+    <bookmark name="[Robot_52_1 nl]" pos="17958"/>
+    <bookmark name="[Robot_52_2 nl]" pos="18008"/>
+    <bookmark name="[Robot_52_3 nl]" pos="18068"/>
+    <bookmark name="[Robot_52_4 nl]" pos="18219"/>
+    <bookmark name="[Robot_52_5 nl]" pos="18285"/>
+    <bookmark name="[Robot_52_7 nl]" pos="18394"/>
+    <bookmark name="[Robot_52_8 nl]" pos="18472"/>
+    <bookmark name="[Robot_52_9 nl]" pos="18626"/>
+    <bookmark name="[Robot_52_10 nl]" pos="18730"/>
+    <bookmark name="[Robot_53_11 nl]" pos="18845"/>
+    <bookmark name="[Robot_53_12 nl]" pos="18987"/>
+    <bookmark name="[Robot_53_13 nl]" pos="19095"/>
+    <bookmark name="[Robot_53_14 nl]" pos="19208"/>
+    <bookmark name="[Robot_53_15 nl]" pos="19298"/>
+    <bookmark name="[Robot_53_16 nl]" pos="19392"/>
+    <bookmark name="[Robot_53_18 nl]" pos="19499"/>
+    <bookmark name="[Robot_53_21 nl]" pos="19567"/>
+    <bookmark name="[Robot_53_22 nl]" pos="19662"/>
+    <bookmark name="[Robot_53_23 nl]" pos="19708"/>
+    <bookmark name="[Robot_53_24 nl]" pos="19882"/>
+    <bookmark name="[Robot_53_26 nl]" pos="19984"/>
+    <bookmark name="[Robot_53_27 nl]" pos="20070"/>
+    <bookmark name="[Robot_53_28 nl]" pos="20213"/>
+    <bookmark name="[Robot_53_29 nl]" pos="20316"/>
+    <bookmark name="[Robot_53_31 nl]" pos="20446"/>
+    <bookmark name="[Robot_53_32 nl]" pos="20604"/>
+    <bookmark name="[Robot_53_33 nl]" pos="20746"/>
+    <bookmark name="[Robot_53_34 nl]" pos="20858"/>
+    <bookmark name="[Robot_53_36 nl]" pos="20924"/>
+    <bookmark name="[Robot_53_37 nl]" pos="21041"/>
+    <bookmark name="[Robot_53_38 nl]" pos="21179"/>
+    <bookmark name="[Robot_53_39 nl]" pos="21330"/>
+    <bookmark name="[Robot_53_40 nl]" pos="21402"/>
+    <bookmark name="[Robot_53_41 nl]" pos="21625"/>
+    <bookmark name="[Robot_53_42 nl]" pos="21779"/>
+    <bookmark name="[Robot_54_4 nl]" pos="21925"/>
+    <bookmark name="[Robot_54_5 nl]" pos="21982"/>
+    <bookmark name="[Robot_54_6 nl]" pos="22043"/>
+    <bookmark name="[Robot_54_7 nl]" pos="22169"/>
+  </bookmarks>
+  <qbookmark/>
+  <content>[Robot_1_1 nl]    Brrrrrt .....
+[Robot_4_19 nl]    Bip Boup
+[Robot_4_20 nl]    Bedankt voor de reparatie, ik ben AILA, de Artificial Intelligence Lab Assistance
+[Robot_4_21 nl]    Je ziet eruit alsof je nieuw bent, ik zal je door het lab leiden
+[Robot_4_22 nl]    Wat is dit voor rommel? Het is minstens 10 jaar geleden sinds het laatste bericht in mijn logboek, en het lab is volledig geruïneerd!
+[Robot_4_23 nl]    Het gaat me weken kosten om dit allemaal op te ruimen... Volg me, ik leid je door het laboratorium..
+[Robot_4_25 nl]    Maar, ik heb niet eens je naam  gevraagd en wat je hier doet?
+[Robot_4_26 nl]    Wat doet een vreemd mens als jij in dit verlaten laboratorium met een mooie robot als ik?
+[Robot_4_30 nl]    Het is 10 jaar geleden sinds mijn laatste inschrijving in het register! En het lab is helemaal smerig!
+[Robot_4_31 nl]    Onder deze omstandigheden kun je geen goed werk doen...
+[Robot_4_32 nl]    Hier, druk op die knop op de deur om hem te openen.
+[Robot_5_1 nl]    Dit is de kleedkamer, hier moet je je PBM of persoonlijke beschermingsmiddelen halen.
+[Robot_5_2 nl]    Voordat je het lab in gaat, neem je dit kastje hier, ik draai me om, vertel me wanneer je klaar bent!
+[Robot_5_4 nl]    Okay, laten we naar de receptie gaan!
+[Robot_7_1 nl]    Hier ontvangen we de bloedmonsters.
+[Robot_7_2 nl]    De eerste stap die je moet onthouden is het scannen van de barcode.
+[Robot_7_3 nl]    Daarna kunnen we naar het laboratorium.
+[Robot_7_4 nl]    Heb je nog vragen?
+[Robot_7_8 nl]    Okay, ik zie dat je het allemaal door hebt, dus volg me naar het lab!
+[Robot_8_1 nl]    Dit is het hematologie laboratorium. Meestal kunt u Op deze computer kan je de uit te voeren testen controleren.
+[Robot_8_3 nl]    U kunt Je kan een CBC, bloedbeeld, etc doen (lijst van alle analyses op het computerscherm).
+[Robot_8_4 nl]    Ik zal je ook kennis laten maken met de verschillende soorten PLC's ??? en hun functionaliteit.
+[Robot_8_5 nl]    Door erop te klikken zie je de naam van de machine en de soorten analyses die hij uitvoert.
+[Robot_8_6 nl]    Vooraleer je de test uitvoert, moet je misschien de buis mengen of mixen (de handleiding voor pre-analyse kan je daarbij helpen).
+[Robot_8_7 nl]    Er moet altijd een "controlebuis" in de automaat worden geplaatst om ervoor te zorgen dat deze goed werkt.
+[Robot_8_8 nl]    Als dit gedaan is, wordt het monster in de automaat geplaatst en worden alle waarden gecontroleerd op juistheid.
+[Robot_8_9 nl]    Laten we doorgaan naar de archieven!
+[Robot_9_1 nl]    Er zijn koelkasten die monsters op verschillende temperaturen bewaren. Deze heeft bijvoorbeeld een temperatuur van 36°C.
+[Robot_9_2 nl]    Ik weet het, het is raar voor een koelkast, stop je yoghurt er niet in.
+[Robot_9_3 nl]    Bij het plaatsen van een monster in de koelkast moet de juiste koelkast gekozen worden. Een controlebuisje mag bijvoorbeeld niet in dezelfde koelkast als een bloedbuisje.
+[Robot_9_4 nl]    Door met de muis over de koelkasten te gaan, krijg je de nodige informatie: hun temperatuur, maar ook het soort monsters dat ze kunnen bevatten.
+[Robot_9_5 nl]    Laten we doorgaan naar de kantoren.
+[Robot_9_6 nl]    Welkom in de archiefruimte. Zoals de naam al zegt, is dit de plaats waar we alle monsters die we analyseren zullen archiveren en opslaan.
+[Robot_9_8 nl]    Hier, druk op die knop op de deur om hem te openen.
+[Robot_10_1 nl]    Persoonlijk is dit mijn favoriete kamer, ik hou van computers. Maar tegelijkertijd ben ik een computer!
+[Robot_10_2 nl]    Laat me mijn oude logins proberen.
+[Robot_10_3 nl]    Ah, ze zijn niet slim, ze hebben de wachtwoorden al meer dan 10 jaar niet vernieuwd.
+[Robot_10_4 nl]    Wachtwoord: 0000. Dat is het, ik ben verbonden met de GOV.BLOOD database.
+[Robot_10_5 nl]    Ik bestel alle verdachte monsters om te analyseren voor de geheime dienst. Ze worden morgen geleverd.
+[Robot_10_6 nl]    En tot slot, laten we de slaapzaal bezoeken!
+[Robot_10_7 nl]    Hier, druk op die knop op de deur om hem te openen.
+[Robot_10_8 nl]    Hier kun je testresultaten rapporteren en invoeren in de overheidsdatabase.
+[Robot_11_1 nl]    Daar is deze plek voor..
+[Robot_11_2 nl]    Je legt jezelf in een horizontale positie en sluit je ogen, althans dat is wat de oude werknemers in het lab deden en het leek te werken...
+[Robot_11_3 nl]    Je hebt een telefoon tot je beschikking, als je een familielid wilt bellen, en een televisie, als je op de hoogte wilt blijven van het nieuws.
+[Robot_11_4 nl]    Helaas laten ze mijn favoriete programma, Robot Chef, waarin de robot die het beste kookt wordt beoordeeld, niet meer zien.
+[Robot_11_5 nl]    Terwijl jij uitrust en je settelt, begin ik met het schoonmaken van het lab.
+[Robot_11_6 nl]    Goedenacht en tot morgen mijn vriend!
+[Robot_11_7 nl]    Na een goede dag werken, lijkt het erop dat jullie mensen rust nodig hebben.
+[Robot_11_8 nl]    Hier, druk op die knop op de deur om hem te openen.
+[Robot_12_0 nl]    Blijf in je kamer, ik ben verlegen en hou er niet van als mensen me zien schoonmaken!
+[Robot_15_1 nl]    Blijf in je kamer, ik ben verlegen en ik hou er niet van dat mensen naar me kijken als ik schoonmaak!
+[Robot_18_1 nl]    Heb je goed geslapen, prinses?
+[Robot_18_3 nl]    Ik heb de nacht doorgebracht met het schoonmaken van het lab, je kunt bijna van de vloer eten!
+[Robot_18_4 nl]    Ik ga je laten zien hoe het allemaal werkt, maar ik heb wat bloed nodig om te analyseren en de monsters zijn nog niet aangekomen.
+[Robot_18_5 nl]    Ik neem een klein beetje van jou, als je het niet erg vindt.
+[Robot_18_7 nl]    Maak je geen zorgen het zal niet pijnlijk zijn, en het zal me in staat stellen om je enkele vragen te stellen om te controleren of je gekwalificeerd bent.
+[Robot_18_8 nl]    Volg mij naar het laboratorium!
+[Robot_21_1 nl]    Allereerst moeten we de juiste buis kiezen voor onze analyse.
+[Robot_21_2 nl]    Hier gaan we een hematologische analyse doen om je bloedcellen te tellen, afgekort CBC.
+[Robot_21_3 nl]    Dit betekent dat er een bloedonderzoek wordt gedaan om rode en witte bloedcellen te meten, maar ook uw bloedplaatjes.
+[Robot_21_4 nl]    Kies het juiste buisje op de tafel, je kunt jezelf helpen met de poster/handleiding.
+[Robot_21_5 nl]    Dit is een buisje met EDTA (Ethyleen-Diamine-Tetra-Acetaat) vloeistof.
+[Robot_21_6 nl]    Deze vloeistof stabiliseert de bloedcellen en voorkomt dat het bloed stolt, wat nodig is voor onze CBC-analyse.
+[Robot_21_7 nl]    Ik zal u nu vertellen welke handelingen ik ga uitvoeren.
+[Robot_21_8 nl]    Na het schoonmaken van je arm, ontsmet ik het gebied van de prik.
+[Robot_21_9 nl]    Ik bind de tourniquet om je arm.
+[Robot_21_10 nl]    Ik breng de naald in en vul het buisje.
+[Robot_21_11 nl]    Ik maak het tourniquet los.
+[Robot_21_12 nl]    Ik haal de naald eruit.
+[Robot_21_13 nl]    En daar heb je het! Ik draai de buis voorzichtig om om stolling te voorkomen.
+[Robot_21_14 nl]    Je ziet dat het niet zo erg was, nu ga ik je wat vragen stellen over wat je gezien hebt.
+[Robot_21_15 nl]    Dat is hem
+[Robot_21_16 nl]    Dit is niet de juiste buis, het was die met de paarse dop.
+[Robot_22_1 nl]    Welke benodidgheden zijn nodig voor bloedafname (9 antwoorden verwacht)?
+[Robot_22_27 nl]    Foute antwoorden sorry
+[Robot_22_28 nl]    Goed werk!
+[Robot_23_1 nl]    Wat is de juiste volgorde voor een bloedonderzoek?
+[Robot_23_27 nl]    Foute antwoorden sorry
+[Robot_23_28 nl]    Goed werk!
+[Robot_24_1 nl]    \Sommige monsterbuizen bevatten additieven om stolling te voorkomen. Wat is de toevoeging voor een CBC analyse (1 antwoord mogelijk)?
+[Robot_24_27 nl]    Foute antwoorden sorry
+[Robot_24_28 nl]    Goed gedaan!
+[Robot_25_1 nl]    \Welke cellen vinden we in menselijk bloed (3 antwoorden verwacht)?
+[Robot_25_27 nl]    Foute antwoorden sorry
+[Robot_25_28 nl]    Goed gedaan!
+[Robot_26_1 nl]    \Voor het uitvoeren van de CBC-analyse, moet de EDTA-buis voorzichtig meerdere malen worden gemengd, waar of niet waar?
+[Robot_26_27 nl]    Foute antwoorden sorry
+[Robot_26_28 nl]    Goed gedaan!
+[Robot_27_1 nl]    Goed, we gaan verder met de automaat.
+[Robot_27_2 nl]    Allereerst moet het staal goed voorbereid zijn.
+[Robot_27_3 nl]    Controleer de reagensniveaus op het scherm en ik geef je het controlemonster.
+[Robot_27_4 nl]    Hier is het controlemonster, plaats het op het automatenrek en start het controleproces
+[Robot_27_5 nl]    Vervang nu het controlemonster door het bloedmonster
+[Robot_27_6 nl]    Nu kunt je de CBC-analyse starten
+[Robot_27_7 nl]    Je kunt de resultaten controleren op het scherm ernaast in het tabblad Analysis
+[Robot_27_8 nl]    Alles lijkt in orde te zijn, geen van de parameters liggen buiten de normale waarden, ze zouden in het rood worden weergegeven als dat wel zo was.
+[Robot_27_9 nl]    Voordat we eindigen, heb ik nog een vraag voor je.
+[Robot_27_10 nl]    Ik heb het monster uit de automaat gehaald, hier neem het.
+[Robot_28_32 nl]    \&gt;Wat is de rol van hemoglobine in menselijke rode bloedcellen (1 antwoorden verwacht)?
+[Robot_28_42 nl]    Foute antwoorden sorry
+[Robot_28_43 nl]    Goed gedaan!
+[Robot_29_1 nl]    Goed, je hebt het goed gedaan, nu alleen nog het bloedmonster archiveren en het controlemonster opbergen.
+[Robot_29_2 nl]    Volg me!
+[Robot_29_3 nl]    Je kunt het bloedmonster in de linker koelkast doen en het controlemonster in de rechter koelkast.
+[Robot_29_4 nl]    Uitstekend werk!
+[Robot_29_5 nl]    De monsters moeten over 2 uur aankomen, je kunt tot die tijd in je kamer gaan rusten, ik kom je halen.
+[Robot_29_6 nl]    Vergeet niet je PBM's terug in de kast te stoppen!
+[Robot_31_1 nl]    Heb je goed geslapen?
+[Robot_31_3 nl]    We hebben zojuist ons eerste verdachte monster ontvangen.
+[Robot_31_4 nl]    De Europese regering stuurt het naar ons omdat het afkomstig is van het laboratorium in Luttastricht, dat blijkbaar onder controle staat van de maffia.
+[Robot_31_5 nl]    Ze willen dat we een nieuwe hematologische analyse doen.
+[Robot_31_7 nl]    Niet treuzelen, we hebben werk te doen. En vergeet je outfit niet, ik wacht op je in de ontvangstruimte...
+[Robot_32_1 nl]    Wees voorzichtig, vergeet je labjas niet aan te trekken, het is verplicht in het lab!
+[Robot_33_1 nl]    Hier, neem het monster op de toonbank
+[Robot_33_2 nl]    Dit is het monster van Bernie Russo. Volgens de informatie in mijn database is hij een 35-jarige man die naar Mars wil om in de bouw te werken.
+[Robot_33_4 nl]    Zoals ik al zei, komt het uit een verdacht laboratorium.
+[Robot_33_5 nl]    Bovendien zou de heer Russo de persoonlijke chauffeur zijn van Edith Balmont, de vrouw die er door de geheime dienst van wordt verdacht het hoofd van de plaatselijke maffia te zijn.
+[Robot_33_6 nl]    Om te verifiëren of deze persoon in aanmerking komt om naar Mars te gaan, moeten we een hematologische analyse uitvoeren en zijn hemoglobinegehalte controleren.
+[Robot_33_7 nl]    Dit is een maat voor de rode bloedcellen in je bloed, die zuurstof van je longen naar je organen vervoeren.
+[Robot_33_8 nl]    Als je een laag hemoglobinegehalte hebt, voel je je vaak moe en uitgeput. Wielrenners die bijvoorbeeld EPO gebruiken verhogen hun hemoglobinegehalte om hun prestaties te verbeteren.
+[Robot_33_9 nl]    Ik praat te veel, ik weet dat ik een praatgrage robot ben, maar ik heb in 10 jaar met niemand gepraat! Laten we naar het lab gaan voor de analyse.
+[Robot_33_10 nl]    Scan nu de barcode van het monster door het op het scherm van de scanner te slepen !
+[Robot_33_11 nl]    Klik dan op het scherm om informatie over het monster te zien.
+[Robot_34_1 nl]    Voordat u de analyse in de automaat start, moet de buis worden voorbereid.
+[Robot_34_2 nl]    Als u niet weet hoe dit moet, kunt u de voorbereidingshandleiding gebruiken!
+[Robot_34_3 nl]    Rechtsklik op de buis in uw inventaris om de vereiste actie uit te voeren.
+[Robot_34_4 nl]    Goed gedaan! Laten we nu overgaan tot de analyse van de automaat.
+[Robot_34_5 nl]    Voorzichtig, je verpest het monster! We mogen geen fouten maken!
+[Robot_34_6 nl]    Je moet het monster heel voorzichtig mengen zodat het bloed homogeen is in het monster.
+[Robot_34_7 nl]    Nu weet je de procedure om de automaat klaar te maken.
+[Robot_34_8 nl]    Vergeet niet de reagensniveaus te controleren.
+[Robot_34_9 nl]    Het is vervelend, ik weet het. Maar grondigheid en precisie zijn cruciaal in het werk van een medisch laboratorium technoloog
+[Robot_34_10 nl]    Ik kijk naar je, probeer de verschillende handelingen van de analyse zelf te doen!
+[Robot_34_11 nl]    Goed gedaan! Laten we nu de resultaten controleren, we zoeken naar abnormale waarden.
+[Robot_34_12 nl]    Er is zeker iets mis, navigeer naar de codex en probeer een ziekte te vinden die overeenkomt met deze waarden.
+[Robot_34_13 nl]    Zodra je zeker bent van je keuze, voer je de ziekte in op het tabblad validatie in de codex.
+[Robot_34_14 nl]    Nee, ik denk dat je een fout hebt gemaakt bij het interpreteren van de resultaten.
+[Robot_34_15 nl]    Je hebt gelijk, dit hemoglobinegehalte ligt ver onder het gemiddelde terwijl het in de eerste test als hoger werd aangekondigd.
+[Robot_34_16 nl]    Ga terug naar de codex en zorg ervoor dat je de juiste waarde hebt aangeklikt om te analyseren of dat je het juiste probleem hebt geïdentificeerd.
+[Robot_34_17 nl]    Dus Bernie Russo's analyse is vervalst! Wat een gebrek aan ethiek!
+[Robot_34_18 nl]    We moeten de overheid op de hoogte brengen van onze ontdekking, maar eerst moeten we het bloedmonster archiveren en het controlemonster opslaan.
+[Robot_35_8 nl]    Oké, je kunt het bloed en het controlemonster opbergen in de koelkasten.
+[Robot_35_9 nl]    Goed werk!
+[Robot_35_10 nl]    Laten we naar de kantoren gaan om de regering te informeren over de resultaten van de analyse.
+[Robot_36_1 nl]    Goed werk, je hebt net je eerste zaak opgelost! Neem wat rust, je hebt het verdiend!
+[Robot_36_2 nl]    Klik op de monitor om het rapport naar de overheid te sturen.
+[Robot_36_10 nl]    Voordat we eindigen, heb ik nog een vraag voor je.
+[Robot_36_11 nl]    Vergeet niet je PBM's terug in de kast te stoppen!
+[Robot_41_2 nl]    Stop het, dat kan je niet maken! Ahhh !!! Ahhh !!! Ahhh!
+[Robot_41_4 nl]    We moeten ze stoppen, ze maken alles kapot!
+[Robot_41_5 nl]    Ze zijn de handlangers van Edith Balmont! Ze hebben het bestaan ​​van het laboratorium ontdekt!
+[Robot_41_7 nl]    NEEEEE!
+[Robot_41_9 nl]    Snik, snik ... je hebt gelijk, we zijn sterker dan dat. We hebben zojuist een urgente e-mail van de overheid ontvangen voor een nieuwe analyse.
+[Robot_41_10 nl]    Het is een speciaal verzoek, het gaat over een sample van de beroemde voetballer Aureliano Foguinho.
+[Robot_41_11 nl]    Het is de laatste dag van de Mercato en het is absoluut noodzakelijk om een ​​analyse van zijn bloed te geven om te bewijzen dat alles normaal is, zodat zijn transfer rond is
+[Robot_41_12 nl]    Alle laboratoria zijn overbelast, daarom heeft de regering zich tot ons gewend ...
+[Robot_41_13 nl]    Maar hoe kunnen we dit doen zonder een automaat?
+[Robot_41_15 nl]    Ja, geweldig idee! Maar eerst moet je je PPE aantrekken en naar de ontvangstruimte gaan om het monster te nemen.
+[Robot_41_16 nl]    Kom helpen!
+[Robot_42_1 nl]    Hier, pak het monster op de balie!
+[Robot_42_2 nl]    Scan de barcode! Het komt niet vaak voor dat het bloed van een persoonlijkheid zoals Aureliano Foguinho wordt geanalyseerd.
+[Robot_42_3 nl]    CBC -analyse, geweldig, laten we naar het lab gaan.
+[Robot_43_1 nl]    Voordat je de microscopische analyse start, moet je het bloeduitstrijkje voorbereiden.
+[Robot_43_2 nl]    De eerste stap is om een ​​druppel bloed op het objectglaasje te plaatsen met behulp van een pipet.
+[Robot_43_3 nl]    Sleep het bloedmonster van je inventaris naar de pipet om dit te doen.
+[Robot_43_4 nl]    Druk op de startknop om het bloed over het objectglaasje uit te smeren.
+[Robot_43_5 nl]    Sleep nu het objectglaasje naar de houder in de kleurmachine.
+[Robot_43_6 nl]    En start het kleurproces op het Stainbox -scherm.
+[Robot_43_7 nl]    Geweldig, nu is de glaasje klaar om te worden geanalyseerd met de microscoop.
+[Robot_43_8 nl]    Pak het op en sleep het naar de microscoop.
+[Robot_43_9 nl]    Kijk nu naar het scherm en probeer te bepalen of de bloedcellen normaal zijn of dat er iets mis is met behulp van de poster aan de linkerkant.
+[Robot_43_10 nl]    Weet je het zeker ? Ik zie niets verkeerds op het microscoopscherm.
+[Robot_43_11 nl]    Goed gedaan, goed gedaan! Je kent de volgende stap. Je moet het EDTA -monster archiveren.
+[Robot_45_1 nl]    Zet het bloedmonster in de koelkast.
+[Robot_45_2 nl]    Zet het bloeduitstrijkje hier in de uitstrijkbox.
+[Robot_45_3 nl]    Goed werk! Laten we naar de kantoren gaan om de regering te informeren over de resultaten van de analyse.
+[Robot_46_2 nl]    Zo, dat heb je goed gedaan!
+[Robot_46_3 nl]    Je kunt zien dat de ouderwetse manieren van pas kunnen komen in een crisis. Dat is het voor vandaag, ik denk dat we genoeg spanning gehad hebben vandaag!
+[Robot_46_4 nl]    Rust goed uit, en tot morgenvroeg!
+[Robot_46_7 nl]    Vergeet niet je PBM's terug in de kast te stoppen!
+[Robot_51_1 nl]    Hé wakker worden, ik heb goed nieuws, de automaat is gemaakt!
+[Robot_51_2 nl]    Ik moest de hele nacht werken, maar het was belangrijk omdat we vandaag een belangrijke analyse hebben.
+[Robot_51_4 nl]    De regering heeft me net een bericht gestuurd.
+[Robot_51_5 nl]    We moeten een grondige analyse uitvoeren van de monsters van Julia Balmont, de oudste dochter van Edith Balmont, de vermoedelijke baas van de plaatselijke mafia.
+[Robot_51_6 nl]    Als we kunnen bewijzen dat de eerste analyse is vervalst, belooft de geheime dienst ons een plaats in het laboratorium van het ruimtevaartuig dat pendelt tussen Mars en de aarde!
+[Robot_51_8 nl]    Oke ik zie je snel!
+[Robot_52_1 nl]    Scan de bloedmonster Barcode!
+[Robot_52_2 nl]    Neem hier het bloedmonster op de balie.
+[Robot_52_3 nl]    Dit is het bloedmonster van Julia Balmont. Ze heeft blijkbaar een baan als astronaut aangevraagd om missies op Mars uit te voeren.
+[Robot_52_4 nl]    De tests voor astronauten zijn ingewikkelder.
+[Robot_52_5 nl]    U moet zowel een bloedtest uitvoeren via de automaat als een urinetest via de multistix.
+[Robot_52_7 nl]    Zoals ik je vertelde, is ze de dochter van Edith Balmont.
+[Robot_52_8 nl]    Als ze deze baan krijgt, zal het decreet "hergroeperingsfamiliale Mars 2042" haar in staat stellen haar familie naar Mars te brengen.
+[Robot_52_9 nl]    Haar broer, junior, maar vooral om een ​​plek te garanderen voor haar moeder Edith!
+[Robot_52_10 nl]    Pak het urinemonster van de balie en volg mij naar het laboratorium om de analyse te starten.
+[Robot_53_11 nl]    We beginnen met de CBC -analyse. Terwijl we wachten op de resultaten, zullen we de urinetest met de multistix uitvoeren.
+[Robot_53_12 nl]    Als je niet weet hoe je dit moet doen, kunt je de voorbereidingshandleiding gebruiken!
+[Robot_53_13 nl]    Klik met de rechtermuisknop op de buis in je inventaris om de vereiste actie uit te voeren.
+[Robot_53_14 nl]    Goed gedaan! Laten we nu verder gaan met de analyse van de automaat.
+[Robot_53_15 nl]    Voorzichtig, je zult het monster verpesten! We moeten geen fouten maken!
+[Robot_53_16 nl]    Je moet het monster heel zachtjes mengen, zodat het bloed in het monster homogeen is.
+[Robot_53_18 nl]    Vergeet niet het reagensniveau te controleren.
+[Robot_53_21 nl]    Voordat de analyse in de automaat begint, moet de buis worden voorbereid.
+[Robot_53_22 nl]    Hier is de controlebuis.
+[Robot_53_23 nl]    Het zal een tijdje duren eer de resultaten er zijn, ik heb niet alle componenten van de automaat kunnen repareren en het is nog steeds een beetje traag.
+[Robot_53_24 nl]    Het maakt niet uit, in de tussentijd gaan we de urinetest doen met de multistix.
+[Robot_53_26 nl]    Begin met het slepen van de pot van je inventaris naar de tabel.
+[Robot_53_27 nl]    In dit proces moet u de strook in het monster dopen. De verschillende vierkanten zullen reageren en van kleur veranderen.
+[Robot_53_28 nl]    Neem nu een multistix -strip uit de container en sleep deze in de urinecontainer.
+[Robot_53_29 nl]    We zullen vervolgens onze analyse maken door de nieuwe stripkleuren te vergelijken met het kleursleutelblad.
+[Robot_53_31 nl]    Goed gedaan ! Volgens uw bevindingen laat de groene kleur in de onderste rij duidelijk zien dat Julia Balmont een glucoseprobleem heeft.
+[Robot_53_32 nl]    Deze resultaten doen me vermoeden dat de patiënt diabetes kan hebben. Ze kan geen astronaut zijn met dergelijke waarden.
+[Robot_53_33 nl]    Laten we nu eens kijken naar de resultaten op de automaat, deze moet inmiddels klaar zijn.
+[Robot_53_34 nl]    Je hebt gelijk, deze waarden zijn abnormaal.
+[Robot_53_36 nl]    We vermoeden drie potentiële oorzaken voor deze hoge waarden voor de analyse van Julia Balmont.
+[Robot_53_37 nl]    Ten eerste neemt ze EPO, dit kan worden beschouwd als een vorm van doping, mogelijk gevaarlijk voor haar gezondheid.
+[Robot_53_38 nl]    Twee, het monster van Julia Balmont is in feite die van een man, die rechtstreeks een vervalsing van de resultaten zou onthullen.
+[Robot_53_39 nl]    Drie, Julia Balmont lijdt aan een ernstige ziekte.
+[Robot_53_40 nl]    In alle drie gevallen zou de toegang tot de shuttle worden geweigerd voor Julia. Ik stel daarom een tijdelijk verbod voor en een grondiger onderzoek omdat het vermoeden van fraude zeer aanwezig blijft.
+[Robot_53_41 nl]    Yoo-hoo, we hebben het bewijs dat zijn test vervalst is! Bewaar het monster voordat je het de regering vertelt. Mars, hier komen we!
+[Robot_53_42 nl]    En selecteer nu de kleuren uit het kleursleutelblad die zich het dichtst bij de juiste strip bevindt en valideer vervolgens.
+[Robot_54_4 nl]    Zet het bloedmonster in de koelkast.
+[Robot_54_5 nl]    Zet het urinemonster in dezelfde opslag.
+[Robot_54_6 nl]    Goed werk! Laten we naar de kantoren gaan om de regering te informeren over de resultaten van de analyse.
+[Robot_54_7 nl]    Plaats het bedieningsmonster in de juiste koelkast.
+</content>
+</BXTDocument>

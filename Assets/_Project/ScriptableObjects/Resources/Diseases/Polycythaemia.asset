@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c7b27d226b2f05449645970992b1dab, type: 3}
+  m_Name: Polycythaemia
+  m_EditorClassIdentifier: 
+  DiseaseName: Polycythaemia
+  DiseaseNameKey: Codex_Content_Title_Polycythaemia
+  DiseaseDescription: 'Polycythaemia, also known as erythrocytosis, means having
+    a high concentration of red blood cells in your blood. This makes the blood thicker
+    and less able to travel through blood vessels and organs. '
+  DiseaseDescriptionKey: Codex_Content_Polycythaemia
+  DiseaseSymptoms: []
+  Determination: 1
+  Criterias:
+  - Male: 1
+    AnalysisType: 0
+    HematologyParameter: 3
+    MicroscopicParameter: 0
+    MultistixParameter: 0
+    Operator: 1
+    Value: 19
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 19, y: 25}
+  - Male: 0
+    AnalysisType: 0
+    HematologyParameter: 3
+    MicroscopicParameter: 0
+    MultistixParameter: 0
+    Operator: 1
+    Value: 19
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 19, y: 25}
+  - Male: 1
+    AnalysisType: 0
+    HematologyParameter: 2
+    MicroscopicParameter: 0
+    MultistixParameter: 0
+    Operator: 1
+    Value: 55
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 55, y: 65}
+  - Male: 0
+    AnalysisType: 0
+    HematologyParameter: 2
+    MicroscopicParameter: 0
+    MultistixParameter: 0
+    Operator: 1
+    Value: 55
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 55, y: 65}

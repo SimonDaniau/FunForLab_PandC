@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f3e0711cb6b524a9a10b848e3dc6da, type: 3}
+  m_Name: StandardCapColors
+  m_EditorClassIdentifier: 
+  Colors:
+  - {fileID: 2100000, guid: 635ae412794a10f48a5cfe9d9545c9d1, type: 2}
+  - {fileID: 2100000, guid: e478b37ab71369c4593562c8a05d7d48, type: 2}
+  - {fileID: 2100000, guid: d2abea9bcf6f1fb4a97e75d2e075ae47, type: 2}
+  - {fileID: 2100000, guid: cd4075525bca3e548900fa7cc84293c6, type: 2}
+  - {fileID: 2100000, guid: 19e5880d5b0d51e4da815601ab98bc63, type: 2}
+  - {fileID: 2100000, guid: 85485d5b04c477041a6ce36966210c2b, type: 2}
+  - {fileID: 2100000, guid: c5144b65772c4a441953397e51473910, type: 2}
+  - {fileID: 2100000, guid: 51a9c17b1bccb2c4e877cab5aa9ebc70, type: 2}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}

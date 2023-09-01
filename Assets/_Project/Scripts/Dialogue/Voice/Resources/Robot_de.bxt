@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BXTDocument>
+  <voice name="Microsoft Stefan [Allemand (Allemagne)]" sapi="5" rate="0" pitch="0" volume="100"/>
+  <bookmarks>
+    <bookmark name="[Robot_1_1 de]" pos="0"/>
+<bookmark name="[Robot_4_19 de]" pos="33"/>
+<bookmark name="[Robot_4_20 de]" pos="62"/>
+<bookmark name="[Robot_4_21 de]" pos="176"/>
+<bookmark name="[Robot_4_22 de]" pos="265"/>
+<bookmark name="[Robot_4_23 de]" pos="428"/>
+<bookmark name="[Robot_4_25 de]" pos="543"/>
+<bookmark name="[Robot_4_26 de]" pos="637"/>
+<bookmark name="[Robot_4_30 de]" pos="758"/>
+<bookmark name="[Robot_4_31 de]" pos="871"/>
+<bookmark name="[Robot_4_32 de]" pos="954"/>
+<bookmark name="[Robot_5_1 de]" pos="1025"/>
+<bookmark name="[Robot_5_2 de]" pos="1157"/>
+<bookmark name="[Robot_5_4 de]" pos="1279"/>
+<bookmark name="[Robot_7_1 de]" pos="1339"/>
+<bookmark name="[Robot_7_2 de]" pos="1386"/>
+<bookmark name="[Robot_7_3 de]" pos="1489"/>
+<bookmark name="[Robot_7_4 de]" pos="1542"/>
+<bookmark name="[Robot_7_8 de]" pos="1582"/>
+<bookmark name="[Robot_8_1 de]" pos="1672"/>
+<bookmark name="[Robot_8_3 de]" pos="1779"/>
+<bookmark name="[Robot_8_4 de]" pos="1956"/>
+<bookmark name="[Robot_8_5 de]" pos="2049"/>
+<bookmark name="[Robot_8_6 de]" pos="2172"/>
+<bookmark name="[Robot_8_7 de]" pos="2311"/>
+<bookmark name="[Robot_8_8 de]" pos="2452"/>
+<bookmark name="[Robot_8_9 de]" pos="2597"/>
+<bookmark name="[Robot_9_1 de]" pos="2642"/>
+<bookmark name="[Robot_9_2 de]" pos="2767"/>
+<bookmark name="[Robot_9_3 de]" pos="2892"/>
+<bookmark name="[Robot_9_4 de]" pos="3100"/>
+<bookmark name="[Robot_9_5 de]" pos="3268"/>
+<bookmark name="[Robot_9_6 de]" pos="3318"/>
+<bookmark name="[Robot_9_8 de]" pos="3446"/>
+<bookmark name="[Robot_10_1 de]" pos="3517"/>
+<bookmark name="[Robot_10_2 de]" pos="3632"/>
+<bookmark name="[Robot_10_3 de]" pos="3695"/>
+<bookmark name="[Robot_10_4 de]" pos="3794"/>
+<bookmark name="[Robot_10_5 de]" pos="3888"/>
+<bookmark name="[Robot_10_6 de]" pos="4027"/>
+<bookmark name="[Robot_10_7 de]" pos="4093"/>
+<bookmark name="[Robot_10_8 de]" pos="4165"/>
+<bookmark name="[Robot_11_1 de]" pos="4263"/>
+<bookmark name="[Robot_11_2 de]" pos="4313"/>
+<bookmark name="[Robot_11_3 de]" pos="4493"/>
+<bookmark name="[Robot_11_4 de]" pos="4675"/>
+<bookmark name="[Robot_11_5 de]" pos="4811"/>
+<bookmark name="[Robot_11_6 de]" pos="4892"/>
+<bookmark name="[Robot_11_7 de]" pos="4952"/>
+<bookmark name="[Robot_11_8 de]" pos="5052"/>
+<bookmark name="[Robot_12_0 de]" pos="5123"/>
+<bookmark name="[Robot_15_1 de]" pos="5238"/>
+<bookmark name="[Robot_18_1 de]" pos="5356"/>
+<bookmark name="[Robot_18_3 de]" pos="5412"/>
+<bookmark name="[Robot_18_4 de]" pos="5509"/>
+<bookmark name="[Robot_18_5 de]" pos="5648"/>
+<bookmark name="[Robot_18_7 de]" pos="5736"/>
+<bookmark name="[Robot_18_8 de]" pos="5863"/>
+<bookmark name="[Robot_21_1 de]" pos="5903"/>
+<bookmark name="[Robot_21_2 de]" pos="6086"/>
+<bookmark name="[Robot_21_3 de]" pos="6243"/>
+<bookmark name="[Robot_21_4 de]" pos="6397"/>
+<bookmark name="[Robot_21_5 de]" pos="6501"/>
+<bookmark name="[Robot_21_6 de]" pos="6595"/>
+<bookmark name="[Robot_21_7 de]" pos="6741"/>
+<bookmark name="[Robot_21_8 de]" pos="6824"/>
+<bookmark name="[Robot_21_9 de]" pos="6890"/>
+<bookmark name="[Robot_21_10 de]" pos="6950"/>
+<bookmark name="[Robot_21_11 de]" pos="7050"/>
+<bookmark name="[Robot_21_12 de]" pos="7095"/>
+<bookmark name="[Robot_21_13 de]" pos="7205"/>
+<bookmark name="[Robot_21_14 de]" pos="7361"/>
+<bookmark name="[Robot_21_15 de]" pos="7467"/>
+<bookmark name="[Robot_21_16 de]" pos="7510"/>
+<bookmark name="[Robot_22_1 de]" pos="7599"/>
+<bookmark name="[Robot_22_27 de]" pos="7698"/>
+<bookmark name="[Robot_22_28 de]" pos="7745"/>
+<bookmark name="[Robot_23_1 de]" pos="7776"/>
+<bookmark name="[Robot_23_27 de]" pos="7853"/>
+<bookmark name="[Robot_23_28 de]" pos="7900"/>
+<bookmark name="[Robot_24_1 de]" pos="7931"/>
+<bookmark name="[Robot_24_27 de]" pos="8096"/>
+<bookmark name="[Robot_24_28 de]" pos="8141"/>
+<bookmark name="[Robot_25_1 de]" pos="8172"/>
+<bookmark name="[Robot_25_27 de]" pos="8264"/>
+<bookmark name="[Robot_25_28 de]" pos="8311"/>
+<bookmark name="[Robot_26_1 de]" pos="8342"/>
+<bookmark name="[Robot_26_27 de]" pos="8496"/>
+<bookmark name="[Robot_26_28 de]" pos="8543"/>
+<bookmark name="[Robot_27_1 de]" pos="8574"/>
+<bookmark name="[Robot_27_2 de]" pos="8642"/>
+<bookmark name="[Robot_27_3 de]" pos="8712"/>
+<bookmark name="[Robot_27_4 de]" pos="8817"/>
+<bookmark name="[Robot_27_5 de]" pos="8923"/>
+<bookmark name="[Robot_27_6 de]" pos="9018"/>
+<bookmark name="[Robot_27_7 de]" pos="9079"/>
+<bookmark name="[Robot_27_8 de]" pos="9207"/>
+<bookmark name="[Robot_27_9 de]" pos="9357"/>
+<bookmark name="[Robot_27_10 de]" pos="9434"/>
+<bookmark name="[Robot_28_32 de]" pos="9515"/>
+<bookmark name="[Robot_28_42 de]" pos="9637"/>
+<bookmark name="[Robot_28_43 de]" pos="9684"/>
+<bookmark name="[Robot_29_1 de]" pos="9715"/>
+<bookmark name="[Robot_29_2 de]" pos="9853"/>
+<bookmark name="[Robot_29_3 de]" pos="9883"/>
+<bookmark name="[Robot_29_4 de]" pos="10014"/>
+<bookmark name="[Robot_29_5 de]" pos="10057"/>
+<bookmark name="[Robot_29_6 de]" pos="10202"/>
+<bookmark name="[Robot_31_1 de]" pos="10277"/>
+<bookmark name="[Robot_31_3 de]" pos="10321"/>
+<bookmark name="[Robot_31_4 de]" pos="10399"/>
+<bookmark name="[Robot_31_5 de]" pos="10559"/>
+<bookmark name="[Robot_31_7 de]" pos="10647"/>
+<bookmark name="[Robot_32_1 de]" pos="10780"/>
+<bookmark name="[Robot_33_1 de]" pos="10884"/>
+<bookmark name="[Robot_33_2 de]" pos="10935"/>
+<bookmark name="[Robot_33_4 de]" pos="11141"/>
+<bookmark name="[Robot_33_5 de]" pos="11230"/>
+<bookmark name="[Robot_33_6 de]" pos="11411"/>
+<bookmark name="[Robot_33_7 de]" pos="11574"/>
+<bookmark name="[Robot_33_8 de]" pos="11758"/>
+<bookmark name="[Robot_33_9 de]" pos="11979"/>
+<bookmark name="[Robot_33_10 de]" pos="12153"/>
+<bookmark name="[Robot_33_11 de]" pos="12263"/>
+<bookmark name="[Robot_34_1 de]" pos="12361"/>
+<bookmark name="[Robot_34_2 de]" pos="12463"/>
+<bookmark name="[Robot_34_3 de]" pos="12558"/>
+<bookmark name="[Robot_34_4 de]" pos="12676"/>
+<bookmark name="[Robot_34_5 de]" pos="12767"/>
+<bookmark name="[Robot_34_6 de]" pos="12861"/>
+<bookmark name="[Robot_34_7 de]" pos="12951"/>
+<bookmark name="[Robot_34_8 de]" pos="13036"/>
+<bookmark name="[Robot_34_9 de]" pos="13106"/>
+<bookmark name="[Robot_34_10 de]" pos="13236"/>
+<bookmark name="[Robot_34_11 de]" pos="13356"/>
+<bookmark name="[Robot_34_12 de]" pos="13467"/>
+<bookmark name="[Robot_34_13 de]" pos="13618"/>
+<bookmark name="[Robot_34_14 de]" pos="13738"/>
+<bookmark name="[Robot_34_15 de]" pos="13845"/>
+<bookmark name="[Robot_34_16 de]" pos="13991"/>
+<bookmark name="[Robot_34_17 de]" pos="14156"/>
+<bookmark name="[Robot_34_18 de]" pos="14257"/>
+<bookmark name="[Robot_35_8 de]" pos="14445"/>
+<bookmark name="[Robot_35_9 de]" pos="14554"/>
+<bookmark name="[Robot_35_10 de]" pos="14587"/>
+<bookmark name="[Robot_36_1 de]" pos="14701"/>
+<bookmark name="[Robot_36_2 de]" pos="14815"/>
+<bookmark name="[Robot_36_10 de]" pos="14902"/>
+<bookmark name="[Robot_36_11 de]" pos="14980"/>
+<bookmark name="[Robot_41_2 de]" pos="15056"/>
+<bookmark name="[Robot_41_4 de]" pos="15148"/>
+<bookmark name="[Robot_41_5 de]" pos="15215"/>
+<bookmark name="[Robot_41_7 de]" pos="15314"/>
+<bookmark name="[Robot_41_9 de]" pos="15340"/>
+<bookmark name="[Robot_41_10 de]" pos="15503"/>
+<bookmark name="[Robot_41_11 de]" pos="15621"/>
+<bookmark name="[Robot_41_12 de]" pos="15826"/>
+<bookmark name="[Robot_41_13 de]" pos="15926"/>
+<bookmark name="[Robot_41_15 de]" pos="16006"/>
+<bookmark name="[Robot_41_16 de]" pos="16138"/>
+<bookmark name="[Robot_42_1 de]" pos="16174"/>
+<bookmark name="[Robot_42_2 de]" pos="16225"/>
+<bookmark name="[Robot_42_3 de]" pos="16369"/>
+<bookmark name="[Robot_43_1 de]" pos="16435"/>
+<bookmark name="[Robot_43_2 de]" pos="16534"/>
+<bookmark name="[Robot_43_3 de]" pos="16641"/>
+<bookmark name="[Robot_43_4 de]" pos="16698"/>
+<bookmark name="[Robot_43_5 de]" pos="16792"/>
+<bookmark name="[Robot_43_6 de]" pos="16885"/>
+<bookmark name="[Robot_43_7 de]" pos="16972"/>
+<bookmark name="[Robot_43_8 de]" pos="17080"/>
+<bookmark name="[Robot_43_9 de]" pos="17155"/>
+<bookmark name="[Robot_43_10 de]" pos="17364"/>
+<bookmark name="[Robot_43_11 de]" pos="17460"/>
+<bookmark name="[Robot_45_1 de]" pos="17576"/>
+<bookmark name="[Robot_45_2 de]" pos="17634"/>
+<bookmark name="[Robot_45_3 de]" pos="17705"/>
+<bookmark name="[Robot_46_2 de]" pos="17833"/>
+<bookmark name="[Robot_46_3 de]" pos="17875"/>
+<bookmark name="[Robot_46_4 de]" pos="18033"/>
+<bookmark name="[Robot_46_7 de]" pos="18096"/>
+<bookmark name="[Robot_51_1 de]" pos="18171"/>
+<bookmark name="[Robot_51_2 de]" pos="18260"/>
+<bookmark name="[Robot_51_4 de]" pos="18384"/>
+<bookmark name="[Robot_51_5 de]" pos="18459"/>
+<bookmark name="[Robot_51_6 de]" pos="18641"/>
+<bookmark name="[Robot_51_8 de]" pos="18834"/>
+<bookmark name="[Robot_52_1 de]" pos="18872"/>
+<bookmark name="[Robot_52_2 de]" pos="18924"/>
+<bookmark name="[Robot_52_3 de]" pos="18979"/>
+<bookmark name="[Robot_52_4 de]" pos="19141"/>
+<bookmark name="[Robot_52_5 de]" pos="19203"/>
+<bookmark name="[Robot_52_7 de]" pos="19346"/>
+<bookmark name="[Robot_52_8 de]" pos="19419"/>
+<bookmark name="[Robot_52_9 de]" pos="19567"/>
+<bookmark name="[Robot_52_10 de]" pos="19674"/>
+<bookmark name="[Robot_53_11 de]" pos="19786"/>
+<bookmark name="[Robot_53_12 de]" pos="19943"/>
+<bookmark name="[Robot_53_13 de]" pos="20045"/>
+<bookmark name="[Robot_53_14 de]" pos="20164"/>
+<bookmark name="[Robot_53_15 de]" pos="20253"/>
+<bookmark name="[Robot_53_16 de]" pos="20346"/>
+<bookmark name="[Robot_53_18 de]" pos="20437"/>
+<bookmark name="[Robot_53_21 de]" pos="20503"/>
+<bookmark name="[Robot_53_22 de]" pos="20595"/>
+<bookmark name="[Robot_53_23 de]" pos="20644"/>
+<bookmark name="[Robot_53_24 de]" pos="20814"/>
+<bookmark name="[Robot_53_26 de]" pos="20910"/>
+<bookmark name="[Robot_53_27 de]" pos="20975"/>
+<bookmark name="[Robot_53_28 de]" pos="21156"/>
+<bookmark name="[Robot_53_29 de]" pos="21261"/>
+<bookmark name="[Robot_53_31 de]" pos="21410"/>
+<bookmark name="[Robot_53_32 de]" pos="21569"/>
+<bookmark name="[Robot_53_33 de]" pos="21720"/>
+<bookmark name="[Robot_53_34 de]" pos="21820"/>
+<bookmark name="[Robot_53_36 de]" pos="21883"/>
+<bookmark name="[Robot_53_37 de]" pos="22013"/>
+<bookmark name="[Robot_53_38 de]" pos="22161"/>
+<bookmark name="[Robot_53_39 de]" pos="22292"/>
+<bookmark name="[Robot_53_40 de]" pos="22373"/>
+<bookmark name="[Robot_53_41 de]" pos="22603"/>
+<bookmark name="[Robot_53_42 de]" pos="22781"/>
+<bookmark name="[Robot_54_4 de]" pos="22894"/>
+<bookmark name="[Robot_54_5 de]" pos="22969"/>
+<bookmark name="[Robot_54_6 de]" pos="23034"/>
+<bookmark name="[Robot_54_7 de]" pos="23162"/>
+  </bookmarks>
+  <qbookmark/>
+  <content>[Robot_1_1 de]    Brrrrrt .....
+[Robot_4_19 de]    Bip Boup
+[Robot_4_20 de]    Danke, dass du mich repariert hast, ich bin AILA, die Artificial Intelligence Lab Assistance.
+[Robot_4_21 de]    Du siehst aus als wärst du neu hier, ich führe dich durch das Labor.
+[Robot_4_22 de]    Was ist das für ein Chaos? Es sind mindestens 10 Jahre seit dem letzten Eintrag in meinem Logbuch vergangen und das Labor ist völlig zerstört!
+[Robot_4_23 de]    Ich werde Wochen brauchen, um das alles aufzuräumen. Komm mit, ich führe dich durch das Labor.
+[Robot_4_25 de]    Aber ich habe dich gar nicht gefragt wie du heißt und was du hier machst?
+[Robot_4_26 de]    Was macht ein seltsamer Mensch wie du in diesem verlassenen Labor mit einem schönen Roboter wie mir?
+[Robot_4_30 de]    Mein letzter Eintrag im Logbuch ist schon 10 Jahre her! Und das Labor ist total verschmutzt!
+[Robot_4_31 de]    Unter diesen Bedingungen kann man keine gute Arbeit leisten...
+[Robot_4_32 de]    Drück den Knopf hier an der Tür, um sie zu öffnen.
+[Robot_5_1 de]    Das ist der Umkleideraum, hier musst du deine PSA, also persönliche Schutzausrüstung bzw. Schutzkleidung, holen.
+[Robot_5_2 de]    Hier im Spind ist deine Schutzkleidung. Zieh sie an, ich drehe mich weg. Sag mir, wenn du fertig bist!
+[Robot_5_4 de]    Alles klar, gehen wir zur Probenannahme!
+[Robot_7_1 de]    Hier ist die Probenannahme.
+[Robot_7_2 de]    Der erste Schritt, den du dir merken musst, ist das Einscannen des Proben-Barcodes.
+[Robot_7_3 de]    Danach können wir ins Labor gehen
+[Robot_7_4 de]    Hast du noch Fragen?
+[Robot_7_8 de]    Okay, ich sehe, du hast alles verstanden, also komm mit mir ins Labor!
+[Robot_8_1 de]    Dies ist das hämatologische Labor. Die Analysen werden hier auf dem Computer angezeigt.
+[Robot_8_3 de]    Auf dem PC-Bildschirm werden sowohl das Blutbild, als auch andere eventuell notwendige Analysen angezeigt. (Liste aller Analysen auf dem Computerbildschirm).
+[Robot_8_4 de]    Ich werde dir auch verschiedene Automaten und ihre Funktionen vorstellen.
+[Robot_8_5 de]    Wenn du darauf klickst siehst du den Namen des Geräts und die Analysen, die man damit durchführen kann.
+[Robot_8_6 de]    Bevor du den Test durchführst, musst du das Röhrchen vorsichtig mischen. (Das Handbuch zur Voranalyse hilft dir dabei).
+[Robot_8_7 de]     Es sollte immer ein "Kontrollröhrchen" in den Automaten gestellt werden, um sicherzustellen, dass korrekt gemessen wird.
+[Robot_8_8 de]    Wenn dies geschehen ist, wird die Probe in den Automaten gestellt und alle Werte werden auf ihre Übereinstimmung überprüft.\n
+[Robot_8_9 de]    Weiter geht's zum Archiv!
+[Robot_9_1 de]    Es gibt Schränke, die Proben bei unterschiedlichen Temperaturen aufbewahren, hier zum Beispiel bei 36 °C.
+[Robot_9_2 de]    Ich weiß, das ist etwas merkwürdig für einen Kühlschrank, stell also deinen Joghurt besser nicht da rein!
+[Robot_9_3 de]    Man muss den richtigen Archivschrank wählen, wenn man eine Patientenprobe archivieren möchte. Zum Beispiel kommt ein Kontrollröhrchen nicht in denselben Kühlschrank wie eine Patienenprobe.
+[Robot_9_4 de]    Wenn du mit der Maus über die Kühlschränke fährst, erhältst du die nötigen Informationen: Ihre Temperatur, und welche Proben dort archiviert werden.
+[Robot_9_5 de]    Gehen wir weiter zu den Büros.
+[Robot_9_6 de]    Willkommen im Archivraum. Wie der Name schon sagt, werden hier alle Proben, die wir analysieren, archiviert.
+[Robot_9_8 de]    Hier, drück den Knopf an der Tür, um sie zu öffnen.
+[Robot_10_1 de]    Persönlich ist dies mein Lieblingsraum, ich liebe Computer. Aber ich bin ja auch ein Computer!
+[Robot_10_2 de]    Lass mich meine alten Logins ausprobieren.
+[Robot_10_3 de]    Ah, sie haben die Passwörter seit über 10 Jahren nicht erneuert! Gut für mich.
+[Robot_10_4 de]    Passwort: 0000. Das war's, ich bin mit der GOV.BLOOD Datenbank verbunden.
+[Robot_10_5 de]    Ich bestelle alle verdächtigen Proben, die für den Geheimdienst analysiert werden sollen. Sie werden morgen geliefert.
+[Robot_10_6 de]    Und zum Schluss, gehen wir in den Schlafsaal!
+[Robot_10_7 de]    Hier, drück den Knopf an der Tür, um sie zu öffnen.
+[Robot_10_8 de]    Hier kannst du Testergebnisse melden und sie in die Staatsdatenbank eingeben.
+[Robot_11_1 de]    Dafür ist dieser Ort gedacht.
+[Robot_11_2 de]    Man legt sich in eine waagerechte Position und schließt die Augen, zumindest haben das die alten Arbeiter im Labor so gemacht und es schien zu funktionieren...
+[Robot_11_3 de]    Man hat ein Telefon zur Verfügung, wenn man einen Verwandten anrufen will, und einen Fernseher, wenn man sich über die Nachrichten auf dem Laufenden halten will.
+[Robot_11_4 de]    Leider wird meine Lieblingssendung Robot Chef nicht mehr gezeigt, in der der Roboter gewinnt, der am besten kocht..
+[Robot_11_5 de]    Während du dich ausruhst, fange ich an, das Labor zu putzen.
+[Robot_11_6 de]    Gute Nacht und bis morgen, mein Freund!
+[Robot_11_7 de]    Nach einem guten Arbeitstag scheint es, als ob ihr Menschen eine Pause braucht.
+[Robot_11_8 de]    Hier, drück den Knopf an der Tür, um sie zu öffnen
+[Robot_12_0 de]    Bleib in deinem Zimmer, ich bin schüchtern und mag es nicht, wenn man mir beim Putzen zusieht!
+[Robot_15_1 de]    Bleib in deinem Zimmer, ich bin schüchtern und mag es nicht, wenn mir jemand beim Putzen zusieht!
+[Robot_18_1 de]    Hast du gut geschlafen, Prinzessin?
+[Robot_18_3 de]    Ich habe die ganze Nacht das Labor geputzt, man konnte fast vom Boden essen!
+[Robot_18_4 de]    Ich werde dir zeigen, wie alles funktioniert, aber ich brauche Blut für die Analyse und die Proben sind noch nicht da.
+[Robot_18_5 de]    Ich nehme dir jetzt ein wenig Blut ab, wenn es dir nichts ausmacht.
+[Robot_18_7 de]    Keine Sorge, es wird nicht weh tun und ich kann dir ein paar Fragen stellen, um dein Wissen zu überprüfen.
+[Robot_18_8 de]    Komm mit ins Labor!
+[Robot_21_1 de]    Zunächst einmal müssen wir das richtige Blutabnahmeröhrchen für unsere Analyse auswählen. In der Fachsprache werden die Abnahmeröhrchen als Monovetten bezeichnet.
+[Robot_21_2 de]    Hier machen wir eine hämatologische Analyse, um deine Blutzellen zu zählen, ein so genanntes Blutbild, kurz auch CBC (cell blood count).
+[Robot_21_3 de]    Das bedeutet, dass eine Blutuntersuchung durchgeführt wird, um die roten und weißen Blutkörperchen und deine Blutplättchen zu messen.
+[Robot_21_4 de]    Wähle die richtige Monovette auf dem Tisch, dabei hilft dir das Poster/Handbuch.   
+[Robot_21_5 de]    Dies ist ein Röhrchen mit EDTA-Flüssigkeit (Ethylen-Diamin-Tetra-Acetat).
+[Robot_21_6 de]    Diese Flüssigkeit stabilisiert die Blutzellen und verhindert, dass das Blut gerinnt, was für unsere CBC-Analyse notwendig ist
+[Robot_21_7 de]    Ich sage dir jetzt, wie ich die Blutabnahme durchführen werde.
+[Robot_21_8 de]    Zunächst desinfiziere ich die Einstichstelle.
+[Robot_21_9 de]    Ich befestige die Staubinde am Oberarm.
+[Robot_21_10 de]    Ich führe die Punktionsnadel in die Vene ein und fülle die Monovette mit Blut.
+[Robot_21_11 de]    Ich löse die Staubinde.
+[Robot_21_12 de]    Ich drücke den Tupfer vorsichtig auf die Einstichstelle und ziehe dann die Nadel heraus.
+[Robot_21_13 de]    Jetzt bekommst du noch ein Pflaster und das wars. Die Monovette muss jetzt vorsichtig geschwenkt werden, damit das Blut nicht gerinnt.
+[Robot_21_14 de]    Siehst du, es war gar nicht so schlimm, jetzt werde ich dir ein paar Fragen stellen.
+[Robot_21_15 de]    Das ist die richtige.
+[Robot_21_16 de]    Das ist nicht das richtige Röhrchen, es war das mit der lila Kappe.
+[Robot_22_1 de]    \>Welche Ausrüstung ist für die Blutentnahme notwendig (9 Antworten erwartet)?
+[Robot_22_27 de]    Falsche Antworten, sorry!
+[Robot_22_28 de]    Good job!
+[Robot_23_1 de]    \>Was ist die richtige Reihenfolge bei der Blutentnahme?
+[Robot_23_27 de]    Falsche Antworten, sorry!
+[Robot_23_28 de]    Good job!
+[Robot_24_1 de]    \>Einige Probenröhrchen enthalten Zusätze, die die Gerinnung verhindern. Welcher Zusatzstoff wird in der Regel für eine CBC-Analyse verwendet?  
+[Robot_24_27 de]    Falsche Antwort, sorry!
+[Robot_24_28 de]    Good job!
+[Robot_25_1 de]    \>Welche Zellen finden wir im menschlichen Blut (3 Antworten erwartet)?
+[Robot_25_27 de]    Falsche Antworten, sorry!
+[Robot_25_28 de]    Good job!
+[Robot_26_1 de]    \>Unmittelbar vor der Durchführung der CBC-Analyse sollte das EDTA-Röhrchen mehrmals vorsichtig gemischt werden, richtig oder falsch?
+[Robot_26_27 de]    Falsche Antworten, sorry!
+[Robot_26_28 de]    Good job!
+[Robot_27_1 de]    In Ordnung, wir machen weiter mit dem Automaten
+[Robot_27_2 de]    Zu allererst muss die Probe gut vorbereitet sein.
+[Robot_27_3 de]    Überprüfe den Reagenzienstand auf dem Bildschirm und ich gebe dir die Kontrollprobe.
+[Robot_27_4 de]    Hier ist die Kontrollprobe, stell sie auf das Gestell und starte die Kontrollmessung.
+[Robot_27_5 de]    Nimm die Kontrollprobe heraus und stelle nun die Patientenprobe ins Gerät.
+[Robot_27_6 de]    Jetzt kannst du die CBC-Analyse starten.
+[Robot_27_7 de]    Wenn die Analyse beendet ist, kannst du die Ergebnisse auf dem Bildschirm im Reiter Analysis daneben sehen.
+[Robot_27_8 de]    Alles ist in Ordnung, keiner der Parameter liegt außerhalb des Normbereichs. Die Ergebnisse würden sonst in rot angezeigt werden.
+[Robot_27_9 de]    Bevor wir fertig sind, habe ich noch eine Frage an dich.
+[Robot_27_10 de]    Ich habe die Probe aus dem Automaten geholt, hier nimm sie.
+[Robot_28_32 de]    \>Welche Aufgabe hat das Hämoglobin in den roten Blutkörperchen des Menschen (1 Antworten erwartet)?
+[Robot_28_42 de]    Falsche Antworten, sorry!
+[Robot_28_43 de]    Good job!
+[Robot_29_1 de]    Ausgezeichnete Arbeit! Lass uns in die Büros gehen, um die Regierung über die Ergebnisse der Analyse zu informieren. 
+[Robot_29_2 de]    Komm mit!
+[Robot_29_3 de]    Du kannst die Patientenprobe in den linken Kühlschrank legen und die Kontrollprobe in den rechten Kühlschrank.
+[Robot_29_4 de]    Ausgezeichnete Arbeit!
+[Robot_29_5 de]    Die Proben sollten in 2 Stunden ankommen, bis dahin kannst du dich in deinem Zimmer ausruhen, ich werde dich später abholen.
+[Robot_29_6 de]    Vergiss nicht, deine PSA wieder in den Spind zu legen!
+[Robot_31_1 de]    Hast du gut geschlafen?
+[Robot_31_3 de]    Wir haben gerade unsere erste verdächtige Probe erhalten.
+[Robot_31_4 de]    Die europäische Regierung schickt sie zu uns, weil sie aus dem Labor in Luttastricht stammt, das offenbar von der Mafia kontrolliert wird. 
+[Robot_31_5 de]    Sie möchten, dass wir eine neue hämatologische Analyse durchführen.
+[Robot_31_7 de]    Nicht trödeln, wir haben zu tun. Und vergiss nicht dich umzuziehen, ich warte in der Probenannahme auf dich...  
+[Robot_32_1 de]    Pass auf, vergiss nicht, deine Schutzkleidung anzuziehen, die ist im Labor Pflicht!
+[Robot_33_1 de]    Nimm die Probe von der Ablage.
+[Robot_33_2 de]    Dies ist die Probe von Bernie Russo. Nach den Informationen in meiner Datenbank handelt es sich um einen 35-jährigen Mann, der zum Mars reisen möchte, um dort im Baugewerbe zu arbeiten.
+[Robot_33_4 de]    Wie du bereits weißt, stammt die Probe aus einem verdächtigen Labor.
+[Robot_33_5 de]    Außerdem soll Herr Russo der persönliche Fahrer von Edith Balmont sein, der Frau, die vom Geheimdienst verdächtigt wird, die Chefin der örtlichen Mafia zu sein.
+[Robot_33_6 de]    Um sicherzustellen, dass er für diesen Job geeignet ist, müssen wir eine hämatologische Analyse durchführen und den Hämoglobinwert überprüfen.
+[Robot_33_7 de]    Der Hämoglobinwert ist ein Maß für die Menge des roten Blutfarbstoffs in den roten Blutkörperchen, die den Sauerstoff von der Lunge zu den Organen transportieren. 
+[Robot_33_8 de]    Wenn du einen zu niedrigen Hämoglobinwert hast, fühlst du dich häufig müde und erschöpft. Zum Beispiel erhöhen Radfahrer, die EPO verwenden, so ihren Hämoglobinspiegel, um ihre Leistung zu verbessern.
+[Robot_33_9 de]    Ich rede zu viel, ich weiß, ich bin eine Plaudertasche, aber ich habe seit 10 Jahren mit niemandem mehr gesprochen! Lass uns zur Analyse ins Labor gehen.
+[Robot_33_10 de]    Scanne jetzt den Barcode der Probe, indem du ihn auf den Bildschirm des Scanners ziehst!
+[Robot_33_11 de]    Klicke dann auf den Bildschirm, um Informationen über die Probe zu erhalten.
+[Robot_34_1 de]    Bevor du die Analyse im Automaten startest, muss das Röhrchen vorbereitet werden.
+[Robot_34_2 de]    Wenn du nicht weißt, wie man das macht, kannst du im Handbuch nachschauen!
+[Robot_34_3 de]    Klicke nun mit der rechten Maustaste auf das Röhrchen, um die erforderliche Aktion durchzuführen.
+[Robot_34_4 de]    Gut gemacht! Jetzt können wir mit der Messung am Automaten fortfahren.
+[Robot_34_5 de]    Vorsichtig, du wirst die Probe ruinieren! Wir dürfen keine Fehler machen!
+[Robot_34_6 de]    Du musst die Probe sehr vorsichtig mischen, um sie zu homogenisieren!
+[Robot_34_7 de]    Jetzt weißt du was du tun musst, um den Automaten vorzubereiten.
+[Robot_34_8 de]    Vergiss nicht, den Reagenzienstand zu überprüfen.
+[Robot_34_9 de]    Das ist lästig, ich weiß. Aber Gründlichkeit und Präzision sind bei der Arbeit als MTL im Labor entscheidend.
+[Robot_34_10 de]    Ich schaue dir zu, wie du die verschiedenen Arbeitsschritte der Analyse selbständig durchführst!  
+[Robot_34_11 de]    Gut gemacht! Lass uns jetzt die Ergebnisse überprüfen, wir suchen nach abnormalen Werten.
+[Robot_34_12 de]    Da stimmt definitiv etwas nicht, navigiere mal zum Codex und schaue, welche Krankheit der Computer für diese Ergebnisse vermutet.
+[Robot_34_13 de]    Wenn du soweit bist, gib die vermutete Krankheit auf der Registerkarte "Validierung" im Codex ein.
+[Robot_34_14 de]    Nein, ich glaube, du hast einen Fehler bei der Interpretation der Ergebnisse gemacht.
+[Robot_34_15 de]    Du hast Recht, dieser Hämoglobinwert liegt weit unter dem Durchschnitt, während er im ersten Test als höher angegeben wurde.
+[Robot_34_16 de]    Gehe zurück zum Codex und vergewissere dich, dass du den richtigen Wert angeklickt hast oder dass du das richtige Problem identifiziert hast.  
+[Robot_34_17 de]    Die Analyse von Bernie Russo wurde also gefälscht! Was für ein Mangel an Ethik!
+[Robot_34_18 de]    Wir müssen die Regierung über unsere Entdeckung informieren, aber zuerst müssen wir die Patientenprobe archivieren und die Kontrollprobe in den Kühlschrank bringen.  
+[Robot_35_8 de]    Okay, du kannst die Patienten- und die Kontrollprobe in die jeweiligen Schränke stellen.
+[Robot_35_9 de]    Gute Arbeit!
+[Robot_35_10 de]    Lass uns in das Büro gehen, um die Regierung über die Ergebnisse der Analyse zu informieren.
+[Robot_36_1 de]    Gute Arbeit, du hast gerade deinen ersten Fall gelöst! Ruh dich aus, du hast es dir verdient!
+[Robot_36_2 de]    Klicke auf den Monitor, um den Bericht an die Regierung zu senden.
+[Robot_36_10 de]    Bevor wir fertig sind, habe ich noch eine Frage an dich.
+[Robot_36_11 de]    Vergiss nicht, deine PSA wieder in den Spind zu legen!
+[Robot_41_2 de]    Hören sie damit auf, das können Sie nicht machen! Ahhh!!! Ahhh!!! Ahhh!
+[Robot_41_4 de]    Wir müssen sie aufhalten, sie zerstören alles!
+[Robot_41_5 de]    Es sind Edith Balmonts Handlanger! Sie haben die Existenz des Labors entdeckt!
+[Robot_41_7 de]    Nein!
+[Robot_41_9 de]    Schnief, schnief ... du hast recht, wir schaffen das. Wir haben gerade eine dringende E-Mail von der Regierung für eine neue Analyse erhalten.
+[Robot_41_10 de]    Es ist eine besondere Anfrage, es geht um die Probe des berühmten Fußballers Aureliano Foguinho.
+[Robot_41_11 de]    Es ist der letzte Tag des Mercato und daher absolut notwendig, eine Analyse seines Blutes zu erstellen, um zu beweisen, dass alles normal ist und sein Transfert bestätigt werden kann.
+[Robot_41_12 de]    Alle Labors sind überlastet, weshalb sich die Regierung an uns gewandt hat ...
+[Robot_41_13 de]    Aber wie können wir einen Befund ohne Automaten erstellen?
+[Robot_41_15 de]    Ja, tolle Idee! Aber zuerst musst du deine Schutzkleidung anziehen und die Probe in der Probenannahme abholen.
+[Robot_41_16 de]    Komm hilf mir!
+[Robot_42_1 de]    Nimm die Probe von der Ablage!
+[Robot_42_2 de]    Scanne den Barcode ein! Es ist nicht alltäglich, dass das Blut einer Persönlichkeit wie Aureliano Foguinho analysiert wird.
+[Robot_42_3 de]    CBC -Analyse, großartig, gehen wir ins Labor.
+[Robot_43_1 de]    Vor Beginn der mikroskopischen Analyse musst du den Blutausstrich vorbereiten.
+[Robot_43_2 de]    Als Erstes musst du mit einer Pipette einen Tropfen Blut auf einen Objektträger geben.
+[Robot_43_3 de]    Ziehe die Blutprobe zur Pipette hin.
+[Robot_43_4 de]    Drücke die Start -Taste, um das Blut auf dem Objektträger auszustreichen.
+[Robot_43_5 de]    Ziehe nun den Objektträger zur Objektträger-Halterung der Färbemaschine.
+[Robot_43_6 de]    Und starte den Färbeprozess auf dem Bildschirm des Färbeautomaten.
+[Robot_43_7 de]    Großartig, jetzt ist der Blutausstrich bereit, unter dem Mikroskop beurteilt zu werden.
+[Robot_43_8 de]    Nimm den Objektträger und leg ihn unter das Mikroskop.
+[Robot_43_9 de]    Sieh dir die Blutzellen auf dem Bildschirm an und versuche festzustellen, ob die sie normal sind oder ob etwas nicht stimmt. Du kannst dir das Poster auf der linken Seite zur Hilfe nehmen.
+[Robot_43_10 de]    Bist du dir sicher ? Ich sehe nichts Falsches auf dem Mikroskopbildschirm.
+[Robot_43_11 de]    Gut gemacht, gute Arbeit! Du kennst den nächsten Schritt. Du musst die EDTA-Probe archivieren.
+[Robot_45_1 de]    Leg die Blutprobe in den Kühlschrank.
+[Robot_45_2 de]    Leg den Blutausstrich hier in den Präparatekasten.
+[Robot_45_3 de]    Ausgezeichnete Arbeit! Gehen wir ins Büro, um die Regierung über die Ergebnisse der Analyse zu informieren.
+[Robot_46_2 de]    So das wäre erledigt!
+[Robot_46_3 de]    Wie du siehst, können die alten Arbeitsmethoden in einer Krise nützlich sein. Das war's für heute, ich denke, wir hatten genug Aufregung.
+[Robot_46_4 de]    Ruh dich gut aus und wir sehen uns morgen!
+[Robot_46_7 de]    Vergiss nicht, deine PSA wieder in den Spind zu legen!
+[Robot_51_1 de]    Hey, wach auf, ich habe gute Nachrichten, der Automat ist repariert!
+[Robot_51_2 de]    Ich musste die ganze Nacht arbeiten, aber es war notwendig, weil wir heute eine wichtige Analyse haben.
+[Robot_51_4 de]    Die Regierung hat mir gerade eine Nachricht geschickt.
+[Robot_51_5 de]    Wir sollen eine gründliche Analyse der Proben von Julia Balmont, der ältesten Tochter von Edith Balmont, der mutmaßlichen Patin der örtlichen Mafia, durchführen.
+[Robot_51_6 de]    Wenn wir beweisen können, dass die erste Analyse gefälscht wurde, verspricht uns der Geheimdienst einen Platz im Labor des Raumfahrzeugs, das zwischen Mars und Erde fliegt.
+[Robot_51_8 de]    Okay, bis gleich!
+[Robot_52_1 de]    Scanne den Blutproben -Barcode!
+[Robot_52_2 de]    Nimm die Blutprobe von der Ablage.
+[Robot_52_3 de]    Dies ist Julia Balmonts Blutprobe. Sie hat sich anscheinend für einen Job als Astronautin  beworben, um Missionen auf dem Mars durchzuführen.
+[Robot_52_4 de]    Die Tests für Astronauten sind komplexer.
+[Robot_52_5 de]    Sie müssen sowohl einen Bluttest über den Automaten als auch einen Urintest über einen Multistix-Teststreifen durchführen.
+[Robot_52_7 de]    Wie ich schon sagte, sie ist Edith Balmonts Tochter.
+[Robot_52_8 de]    Wenn sie diesen Job bekommt, erlaubt das Dekret "Familienzusammenführung Mars 2042" es ihr, ihre Familie auf den Mars zu holen.
+[Robot_52_9 de]    Um ihrem Bruder Junior, aber vor allem, ihrer Mutter Edith einen Platz zu garantieren!
+[Robot_52_10 de]    Nimm die Urinprobe von der Ablage und komm mit in das Labor, um die Analyse durchzuführen.
+[Robot_53_11 de]    Wir werden mit der CBC -Analyse beginnen. Während wir auf die Ergebnisse warten, werden wir den Urintest mit dem Multistix durchführen.
+[Robot_53_12 de]    Wenn du nicht weißt, wie das geht, kannst du im Vorbereitungshandbuch nachsehen!
+[Robot_53_13 de]    Klicke nun mit der rechten Maustaste auf das Röhrchen, um die erforderliche Aktion durchzuführen.
+[Robot_53_14 de]    Gut gemacht! Lass uns nun mit der Analyse am Automatens fortfahren.
+[Robot_53_15 de]    Vorsicht, du wirst die Probe ruinieren! Wir dürfen keine Fehler machen!
+[Robot_53_16 de]    Du musst die Probe sehr vorsichtig mischen, um sie zu homogenisieren!
+[Robot_53_18 de]    Vergiss nicht, die Reagenzien zu überprüfen.
+[Robot_53_21 de]    Vor Beginn der Analyse im Automaten muss die Probe vorbereitet werden.
+[Robot_53_22 de]    Hier ist die Kontrollprobe.
+[Robot_53_23 de]    Es dauert eine Weile bis die Ergebnisse fertig sind. Da ich nicht alle Komponenten des Automaten reparieren konnte, ist er immer noch etwas langsam.
+[Robot_53_24 de]    In der Zwischenzeit werden wir den Urintest mit dem Multistix durchführen.
+[Robot_53_26 de]    Bring jetzt die Urinprobe zum Arbeitstisch.
+[Robot_53_27 de]    Bei dieser Analyse musst du den Streifen in die Urinprobe eintauchen. Die verschiedenen Testfelder reagieren mit der Probe und beginnen die Farbe zu verändern.
+[Robot_53_28 de]    Nimm nun einen Multistix -Streifen aus dem Behälter und ziehe ihn zum Urinbehälter.
+[Robot_53_29 de]    Wir werden dann unsere Analyse auswerten, indem wir die Farbänderungen der Testfelder mit dem angegebenen Farbcode vergleichen.
+[Robot_53_31 de]    Exzellente Arbeit! Laut deiner Auswertung zeigt die grüne Farbe in der unteren Reihe deutlich, dass Julia Balmont ein Glukoseproblem hat.
+[Robot_53_32 de]    Diese Ergebnisse lassen vermuten, dass die Patientin Diabetes haben könnte. Mit solchen Werten kann sie keine Astronautin werden.
+[Robot_53_33 de]    Schauen wir uns jetzt die Ergebnisse am Automaten an, sie sollten fertig sein.
+[Robot_53_34 de]    Du hast Recht, diese Werte sind abnormal.
+[Robot_53_36 de]    Wir können drei potenzielle Ursachen für diese hohen Werte bei der Probenanalyse von Julia Balmont vermuten.
+[Robot_53_37 de]    Erstens sie nimmt EPO. Dies kann als eine Form des Dopings angesehen werden und ist potenziell gefährlich für ihre Gesundheit.
+[Robot_53_38 de]    Zweite Möglichkeit, Julia Balmonts Probe hat die Blutprobe eines Mannes als ihre eingereicht, das ist Betrug.
+[Robot_53_39 de]    Drittens, Julia Balmont leidet an einer schweren Krankheit.
+[Robot_53_40 de]    In allen drei Fällen würde der Zugang zum Shuttle für Julia abgelehnt werden. Ich schlage daher ein vorübergehendes Flugverbot und eine gründlichere Untersuchung vor, da der Verdacht auf Betrug im Raum steht.
+[Robot_53_41 de]    Yoo-hoo, wir haben den Beweis dafür, dass sein Test gefälscht ist! Bewahren Sie die Stichprobe auf, bevor Sie der Regierung erzählen. Mars, hier kommen wir!
+[Robot_53_42 de]    Werte nun die Farben des Teststreifens mit Hilfe des Farbscodes aus und validiere sie dann.
+[Robot_54_4 de]    Leg die Blutprobe in den Kühlschrank. ( Archivschrank)
+[Robot_54_5 de]    Leg die Urinprobe in den selben Kühlschrank.
+[Robot_54_6 de]    Ausgezeichnete Arbeit! Gehen wir ins Büro, um die Regierung über die Ergebnisse der Analyse zu informieren.
+[Robot_54_7 de]    Leg die Kontrollprobe in den richtigen Kühlschrank.
+</content>
+</BXTDocument>

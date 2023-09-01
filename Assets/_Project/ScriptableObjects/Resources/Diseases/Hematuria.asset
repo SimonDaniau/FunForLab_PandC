@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c7b27d226b2f05449645970992b1dab, type: 3}
+  m_Name: Hematuria
+  m_EditorClassIdentifier: 
+  DiseaseName: Liver disease
+  DiseaseNameKey: Codex_Content_Title_Liver_Disease
+  DiseaseDescription: Bilirubin is a yellowish pigment that is made during the breakdown
+    of red blood cells. Bilirubin passes through the liver and is eventually excreted
+    out of the body. Higher than usual levels of bilirubin may indicate different
+    types of liver or bile duct problems.
+  DiseaseDescriptionKey: Codex_Content_Liver_Disease
+  DiseaseSymptoms: []
+  Determination: 1
+  Criterias:
+  - Male: 1
+    AnalysisType: 2
+    HematologyParameter: 1
+    MicroscopicParameter: 0
+    MultistixParameter: 4
+    Operator: 0
+    Value: 4.5
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 3, y: 4.5}
+  - Male: 0
+    AnalysisType: 2
+    HematologyParameter: 1
+    MicroscopicParameter: 0
+    MultistixParameter: 4
+    Operator: 0
+    Value: 4
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 2.5, y: 4}
+  - Male: 1
+    AnalysisType: 2
+    HematologyParameter: 0
+    MicroscopicParameter: 0
+    MultistixParameter: 2
+    Operator: 0
+    Value: 0
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 0, y: 0}
+  - Male: 0
+    AnalysisType: 2
+    HematologyParameter: 0
+    MicroscopicParameter: 0
+    MultistixParameter: 2
+    Operator: 0
+    Value: 0
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 0, y: 0}
+  - Male: 1
+    AnalysisType: 2
+    HematologyParameter: 0
+    MicroscopicParameter: 0
+    MultistixParameter: 8
+    Operator: 0
+    Value: 0
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 0, y: 0}
+  - Male: 0
+    AnalysisType: 2
+    HematologyParameter: 0
+    MicroscopicParameter: 0
+    MultistixParameter: 8
+    Operator: 0
+    Value: 0
+    Range: {x: 0, y: 0}
+    DiseaseGenerationRange: {x: 0, y: 0}

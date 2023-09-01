@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31149da5896b3c43a3fd218e8e4c777, type: 3}
+  m_Name: Case1BernieRusso
+  m_EditorClassIdentifier: 
+  SampleID: 210432863
+  Demographic: Male, 35 y/o
+  AllRequestedAnalysis:
+  - Hematology CBC
+  SampleKey: FirstCase_Scanner_ID
+  DemoKey: FirstCase_Scanner_Dem
+  ReqTitleKey: FirstCase_Scanner_Request_Title
+  ReqContentKey: FirstCase_Scanner_Request_Content

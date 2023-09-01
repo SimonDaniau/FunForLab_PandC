@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31c733a82b638045b81a21e078fe5dd, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  Items:
+  - ItemName: Circuit board
+    InventoryIcon: {fileID: 21300000, guid: 415abe73e772e254380f2e8e90f3de15, type: 3}
+    Acts:
+    - LuaCondition: 
+      ValidTargets:
+      - DamagedRobot
+      LuaAction: Variable["RobotRepaired"] = true
+      EventAction: Circuit board
+  - ItemName: Control sample
+    InventoryIcon: {fileID: 21300000, guid: 8cd8682e643dc554f94092735ef4183d, type: 3}
+    Acts:
+    - LuaCondition: Variable["RackAwaitingControl"] == true
+      ValidTargets:
+      - XN-1000 Dialogue
+      - XN-1000 Orbit
+      - XN-1000
+      - XN-1000 Assembly
+      LuaAction: 
+      EventAction: ControlSampleOnAutomaton
+    - LuaCondition: Variable["GameState"] == "M4.7"
+      ValidTargets:
+      - XN-1000 Dialogue
+      - XN-1000 Orbit
+      - XN-1000
+      - XN-1000 Assembly
+      LuaAction: Variable["GameState"] = "M4.8"
+      EventAction: ControlSampleOnAutomaton
+    - LuaCondition: Variable["ControlSampleArchived"] == false and Variable["RobotLocation"]
+        == "InArchivesMiddle"
+      ValidTargets:
+      - Cold Storage
+      LuaAction: Variable["ControlSampleArchived"] =true
+      EventAction: ControlSampleOnColdStorage
+    - LuaCondition: Variable["GameState"] == "M4.19"
+      ValidTargets:
+      - Cold Storage
+      LuaAction: Variable["GameState"] = "M4.20"
+      EventAction: ControlSampleOnColdStorage
+  - ItemName: Own sample
+    InventoryIcon: {fileID: 21300000, guid: 73b633ff390728a49b611db3fa62ba3b, type: 3}
+    Acts:
+    - LuaCondition: Variable["RackAwaitingBlood"] == true
+      ValidTargets:
+      - XN-1000 Dialogue
+      - XN-1000 Orbit
+      - XN-1000
+      - XN-1000 Assembly
+      LuaAction: 
+      EventAction: BloodSampleOnAutomaton
+    - LuaCondition: Variable["BloodSampleArchived"] == false and Variable["RobotLocation"]
+        == "InArchivesMiddle"
+      ValidTargets:
+      - Roomtemp Storage
+      LuaAction: Variable["BloodSampleArchived"] =true
+      EventAction: BloodSampleOnRoomtempArchive
+  - ItemName: Case 1 sample
+    InventoryIcon: {fileID: 21300000, guid: 73b633ff390728a49b611db3fa62ba3b, type: 3}
+    Acts:
+    - LuaCondition: Variable["GameState"] == "M2.3"
+      ValidTargets:
+      - ScannerOrbit
+      LuaAction: Variable["GameState"] = "M2.4"
+      EventAction: SampleCase1Scan
+    - LuaCondition: Variable["RackAwaitingBlood"] == true
+      ValidTargets:
+      - XN-1000 Dialogue
+      - XN-1000 Orbit
+      - XN-1000
+      - XN-1000 Assembly
+      LuaAction: 
+      EventAction: Case1SampleOnAutomaton
+    - LuaCondition: Variable["BloodSampleArchived"] == false and Variable["RobotLocation"]
+        == "InArchivesMiddle"
+      ValidTargets:
+      - Roomtemp Storage
+      LuaAction: Variable["BloodSampleArchived"] =true
+      EventAction: Case1SampleOnRoomtempArchive
+  - ItemName: Case 2 sample
+    InventoryIcon: {fileID: 21300000, guid: 73b633ff390728a49b611db3fa62ba3b, type: 3}
+    Acts:
+    - LuaCondition: Variable["GameState"] == "M3.3"
+      ValidTargets:
+      - ScannerOrbit
+      LuaAction: Variable["GameState"] = "M3.4"
+      EventAction: SampleCase2Scan
+    - LuaCondition: Variable["GameState"] == "M3.5"
+      ValidTargets:
+      - DroplerInteractor
+      - DroplerOrbit
+      LuaAction: Variable["GameState"] = "M3.6"
+      EventAction: SampleCase2Dropler
+    - LuaCondition: Variable["GameState"] == "M3.13"
+      ValidTargets:
+      - Roomtemp Storage
+      LuaAction: Variable["GameState"] = "M3.14"
+      EventAction: Case2SampleOnRoomtempArchive
+  - ItemName: BloodSmear
+    InventoryIcon: {fileID: 21300000, guid: 254da48832b89c64f83af14a68c906c3, type: 3}
+    Acts:
+    - LuaCondition: Variable["GameState"] == "M3.7"
+      ValidTargets:
+      - Stainbox
+      LuaAction: Variable["GameState"] = "M3.8"
+      EventAction: BloodSmearOnStainbox
+    - LuaCondition: Variable["GameState"] == "M3.10"
+      ValidTargets:
+      - MicroscopeOrbit
+      - MicroscopeEnsembleOrbit
+      LuaAction: Variable["GameState"] = "M3.11"
+      EventAction: BloodSmearOnMicroscope
+    - LuaCondition: Variable["GameState"] == "M3.14"
+      ValidTargets:
+      - SlideBox
+      LuaAction: Variable["GameState"] = "M3.15"
+      EventAction: BloodSmearInBoxArchives
+  - ItemName: Case 3 sample
+    InventoryIcon: {fileID: 21300000, guid: 73b633ff390728a49b611db3fa62ba3b, type: 3}
+    Acts:
+    - LuaCondition: Variable["GameState"] == "M4.3"
+      ValidTargets:
+      - ScannerOrbit
+      LuaAction: Variable["GameState"] = "M4.4"
+      EventAction: SampleCase3Scan
+    - LuaCondition: Variable["GameState"] == "M4.9"
+      ValidTargets:
+      - XN-1000 Dialogue
+      - XN-1000 Orbit
+      - XN-1000
+      - XN-1000 Assembly
+      LuaAction: Variable["GameState"] = "M4.10"
+      EventAction: Case3SampleOnAutomaton
+    - LuaCondition: Variable["GameState"] == "M4.17"
+      ValidTargets:
+      - Roomtemp Storage
+      LuaAction: Variable["GameState"] = "M4.18"
+      EventAction: Case3SampleOnRoomtempArchive
+  - ItemName: UrineSample
+    InventoryIcon: {fileID: 21300000, guid: 97971e1bd89a3494786c7f613979a1af, type: 3}
+    Acts:
+    - LuaCondition: Variable["GameState"] == "M4.11"
+      ValidTargets:
+      - ManipOrbit
+      - ManipDialogue
+      LuaAction: Variable["GameState"] = "M4.12"
+      EventAction: UrineSampleOnStixSetup
+    - LuaCondition: Variable["GameState"] == "M4.18"
+      ValidTargets:
+      - Roomtemp Storage
+      LuaAction: Variable["GameState"] = "M4.19"
+      EventAction: UrineSampleOnRoomtempArchive
+  - ItemName: MultistixStrip
+    InventoryIcon: {fileID: 21300000, guid: e94647999fa4ad4438e54cc6b7588fae, type: 3}
+    Acts:
+    - LuaCondition: Variable["GameState"] == "M4.13"
+      ValidTargets:
+      - UrineInteractor
+      LuaAction: Variable["GameState"] = "M4.14"
+      EventAction: MultistixStripOnUrineSample
